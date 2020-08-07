@@ -4,7 +4,7 @@ from torch.nn import init
 import functools
 from torch.optim import lr_scheduler
 from . import MobileNetV2
-
+from . import hourglass
 ###############################################################################
 # Helper Functions
 ###############################################################################
@@ -156,6 +156,8 @@ def define_G(input_nc, output_nc, ngf, netG, norm='batch', use_dropout=False, in
         net = UnetGenerator(input_nc, output_nc, 8, ngf, norm_layer=norm_layer, use_dropout=use_dropout)
     elif netG == 'mobile_net':
         net = MobileNetV2.mobilenet_v2(pretrained = True)
+    elif netG == 'small_net':
+        net = hourglass.SmallNet()
     else:
         raise NotImplementedError('Generator model name [%s] is not recognized' % netG)
     return init_net(net, init_type, init_gain, gpu_ids)
