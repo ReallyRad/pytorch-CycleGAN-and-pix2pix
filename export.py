@@ -6,6 +6,15 @@ from util.visualizer import save_images
 from util import html
 import torch
 
+class ModelForExport(nn.Module):
+    def init(self, model):
+        super().init()
+        self.model = model
+
+    def forward(self, x):
+        x = (x/255.0)*2.0 - 1.0
+        return (self.model(x) + 1.0) / 2.0 * 255
+
 if __name__ == '__main__':
     opt = TestOptions().parse()  # get test options
     # hard-code some parameters for test
@@ -23,8 +32,10 @@ if __name__ == '__main__':
 
     model.netG.module.to('cpu')
 
+    model.netG.eval()
+
     random_input = torch.randn(10, 3, 256, 256, dtype=torch.float32)
 
-    torch.onnx.export(model.netG.module, random_input, './model.onnx', verbose=False,
+    torch.onnx.export(ModelForExport(model.netG.module), random_input, './model.onnx', verbose=False,
                       input_names=input_names, output_names=output_names,
                       opset_version=11)
