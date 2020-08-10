@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
     model.netG.module.to('cpu')
 
-    random_input = torch.randn(1, 3, 64, 64, dtype=torch.float32)
+    random_input = torch.randn(10, 3, 256, 256, dtype=torch.float32)
 
     torch.onnx.export(model.netG.module, random_input, './model.onnx', verbose=False,
                       input_names=input_names, output_names=output_names,
