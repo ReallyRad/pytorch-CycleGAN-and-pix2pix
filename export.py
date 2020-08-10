@@ -18,16 +18,7 @@ if __name__ == '__main__':
     model = create_model(opt)      # create a model given opt.model and other options
     model.setup(opt)               # regular setup: load and print networks; create schedulers
 
-    # original saved file with DataParallel
-    state_dict = torch.load('/content/drive/My Drive/Training Data/checkpoints/human2cat_pix2pix/latest_net_G.pth')
-    # create new OrderedDict that does not contain module.
-    from collections import OrderedDict
-    new_state_dict = OrderedDict()
-    for k, v in state_dict.items():
-        name = k[7:] # remove module.
-        new_state_dict[name] = v
-    # load params
-    model.netG.load_state_dict(new_state_dict)
+    model.netG.module.to('cpu')
 
     dummy = torch.randn(10, 3, 256, 256)
-    torch.onnx.export(model.netG, dummy, './out.onnx')
+    torch.onnx.export(model.netG.module, dummy, './out.onnx')
