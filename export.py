@@ -18,7 +18,13 @@ if __name__ == '__main__':
     model = create_model(opt)      # create a model given opt.model and other options
     model.setup(opt)               # regular setup: load and print networks; create schedulers
 
+    input_names = ["image"]
+    output_names = ["pred"]
+
     model.netG.module.to('cpu')
 
-    dummy = torch.randn(10, 3, 256, 256)
-    torch.onnx.export(model.netG.module, dummy, './out.onnx')
+    random_input = torch.randn(1, 3, 64, 64, dtype=torch.float32)
+
+    torch.onnx.export(model, random_input, './model.onnx', verbose=False,
+                      input_names=input_names, output_names=output_names,
+                      opset_version=11)
