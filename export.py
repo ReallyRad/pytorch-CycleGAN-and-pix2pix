@@ -25,6 +25,6 @@ if __name__ == '__main__':
 
     random_input = torch.randn(1, 3, 64, 64, dtype=torch.float32)
 
-    torch.onnx.export(model, random_input, './model.onnx', verbose=False,
+    torch.onnx.export(model.netG.module, random_input, './model.onnx', verbose=False,
                       input_names=input_names, output_names=output_names,
                       opset_version=11)

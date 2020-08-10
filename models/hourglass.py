@@ -19,7 +19,7 @@ class ResidualSep(nn.Module):
 
     def forward(self, x):
         x = (x / 255.0) * 2.0 - 1.0
-        return ((self.model(x) + 1.0) / 2.0) * 255.0
+        return ((self.blocks(x) + 1.0) / 2.0) * 255.0
 
 class ResidualHourglass(nn.Module):
     def __init__(self, channels, mult=2):
