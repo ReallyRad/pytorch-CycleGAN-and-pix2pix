@@ -16,9 +16,9 @@
 //@ui {"widget":"separator"}
 //@input bool advanced
 //these names have to match your model input and output names
-//@input string input1Name = "data" {"showIf" : "advanced"}
+//@input string input1Name = "image" {"showIf" : "advanced"}
 //@input string input2Name = "cond" {"showIf" : "advanced"}
-//@input string output1Name = "output_0" {"showIf" : "advanced"}
+//@input string output1Name = "pred" {"showIf" : "advanced"}
 //@input string output2Name = "output_1" {"showIf" : "advanced"}
 //@ui {"widget":"separator", "showIf" : "advanced"}
 //@input SceneObject camera {"showIf" : "advanced"}
@@ -78,12 +78,10 @@ function onMLLoaded() {
 function getConfig() {
     
     var mlInput1;
-    var mlInput2;
     var mlOutput1;
-    var mlOutput2;
     
     try {
-        mlInput1 = mlComponent.getInput(script.input1Name);
+        mlInput1 = mlComponent.getInput("image");
     } catch (e) {
         debugPrint(e + ". Please set valid Input 1 Name that is matching MLAsset output name");
         return null;
@@ -93,14 +91,7 @@ function getConfig() {
     }
     
     try {
-        mlInput2 = mlComponent.getInput(script.input2Name);
-    } catch (e) {
-        debugPrint(e + ". Please set valid Input 2 Name that is matching MLAsset output name");
-        return null;
-    }
-    
-    try {
-        mlOutput1 = mlComponent.getOutput(script.output1Name);
+        mlOutput1 = mlComponent.getOutput("pred");
     } catch (e) {
         debugPrint(e + ". Please set valid Output 1 Name that is matching MLAsset output name");
         return null;
@@ -109,21 +100,9 @@ function getConfig() {
         debugPrint("Error, Please create Output Texture on the ML Component");
     }
 
-    try {
-        mlOutput2 = mlComponent.getOutput(script.output2Name);
-    } catch (e) {
-        debugPrint(e + ". Please set valid Output 2 Name that is matching MLAsset output name");
-        return null;
-    }
-    if (!mlOutput2.texture) {
-        debugPrint("Error, Please create Output Texture on the ML Component");
-    }
-
     return {
         input1 : mlInput1,
-        input2 : mlInput2,
         output1: mlOutput1,
-        output2: mlOutput2
     };
 }
 
@@ -201,7 +180,7 @@ function onMLFinishedProcessingFirstFrame() {
 function reset() {
 
     setOutputTexture(false);
-
+ 
     if (script.photoButton) { script.photoButton.enabled = true; }
     if (script.resetButton) { script.resetButton.enabled = false; }
 
@@ -215,7 +194,6 @@ function setOutputTexture(fromOutput) {
     if (fromOutput) {
         script.outputImage.enabled = true;
         script.outputImage.mainPass.baseTex = config.output1.texture;
-        script.outputImage.mainPass.overlayTex = config.output2.texture;
     } else {
         script.outputImage.enabled = false;
     }
@@ -227,7 +205,6 @@ function updateConditionDataInput() {
     var value = interpolationValue;
     var arr = [value * 2, value * 2];
     arr = new Float32Array(arr);
-    config.input2.data.set(arr);
     return;
 }
 
