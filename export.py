@@ -5,10 +5,11 @@ from models import create_model
 from util.visualizer import save_images
 from util import html
 import torch
+import torch.nn as nn
 
 class ModelForExport(nn.Module):
-    def init(self, model):
-        super().init()
+    def __init__(self, model):
+        super().__init__()
         self.model = model
 
     def forward(self, x):
@@ -27,15 +28,20 @@ if __name__ == '__main__':
     model = create_model(opt)      # create a model given opt.model and other options
     model.setup(opt)               # regular setup: load and print networks; create schedulers
 
-    input_names = ["image"]
-    output_names = ["pred"]
+    model_for_export = ModelForExport(model.netG.module)
+    model.netG.module.eval()
+    model.netG.module.to('cpu'
+                         )
+    dummy_input = torch.randn(1, 3, 256, 256, dtype=torch.float32)
 
-    model.netG.module.to('cpu')
+    output = model_for_export(dummy_input.detach())
 
-    model.netG.eval()
+    input_names = ["input"]
+    output_names = ["output"]
 
-    random_input = torch.randn(10, 3, 256, 256, dtype=torch.float32)
+    model_for_export = ModelForExport(model.netG.module)
 
-    torch.onnx.export(ModelForExport(model.netG.module), random_input, './model.onnx', verbose=False,
-                      input_names=input_names, output_names=output_names,
-                      opset_version=11)
+    torch.onnx.export(model_for_export, dummy_input,
+                      "./mobilenet.onnx", verbose=False,
+                      input_names=input_names, output_names=output_names)
+
