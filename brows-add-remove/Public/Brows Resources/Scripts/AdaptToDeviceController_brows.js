@@ -81,7 +81,7 @@ function getConfig() {
     var mlOutput1;
     
     try {
-        mlInput1 = mlComponent.getInput("image");
+        mlInput1 = mlComponent.getInput("input");
     } catch (e) {
         debugPrint(e + ". Please set valid Input 1 Name that is matching MLAsset output name");
         return null;
@@ -91,7 +91,7 @@ function getConfig() {
     }
     
     try {
-        mlOutput1 = mlComponent.getOutput("pred");
+        mlOutput1 = mlComponent.getOutput("output");
     } catch (e) {
         debugPrint(e + ". Please set valid Output 1 Name that is matching MLAsset output name");
         return null;
