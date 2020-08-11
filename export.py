@@ -42,6 +42,6 @@ if __name__ == '__main__':
     model_for_export = ModelForExport(model.netG.module)
 
     torch.onnx.export(model_for_export, dummy_input,
-                      "./mobilenet.onnx", verbose=False,
+                      "./againnet.onnx", verbose=False,
                       input_names=input_names, output_names=output_names)
 
