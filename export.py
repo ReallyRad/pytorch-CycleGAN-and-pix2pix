@@ -32,7 +32,7 @@ if __name__ == '__main__':
     model.netG.module.eval()
     model.netG.module.to('cpu'
                          )
-    dummy_input = torch.randn(10, 3, 256, 256, dtype=torch.float32)
+    dummy_input = torch.randn(1, 3, 256, 256, dtype=torch.float32)
 
     output = model_for_export(dummy_input.detach())
 
