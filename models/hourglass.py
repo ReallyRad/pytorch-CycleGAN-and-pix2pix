@@ -18,8 +18,7 @@ class ResidualSep(nn.Module):
         )
 
     def forward(self, x):
-        x = (x / 255.0) * 2.0 - 1.0
-        return ((self.blocks(x) + 1.0) / 2.0) * 255.0
+        return x + self.blocks(x)
 
 class ResidualHourglass(nn.Module):
     def __init__(self, channels, mult=2):
@@ -61,15 +60,13 @@ class ResidualHourglass(nn.Module):
 
 
 class SmallNet(nn.Module):
-    def __init__(self, width=32):
+    def __init__(self, width=16):
         super().__init__()
 
         self.blocks = nn.Sequential( 
             nn.ReflectionPad2d(1),
             nn.Conv2d(3, width, kernel_size=3, stride=1, padding=0, bias=False),
             nn.InstanceNorm2d(width, affine=True),
-            ResidualHourglass(channels=width),
-            ResidualHourglass(channels=width),
             ResidualHourglass(channels=width),
             ResidualHourglass(channels=width),
             ResidualSep(channels=width, dilation=1),
