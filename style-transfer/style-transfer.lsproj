@@ -3,7 +3,7 @@
     "document_id": "41KqheCcwg7pji__eSJP",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597165475284",
+    "lastChanged": "1597246966493",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -104,10 +104,8 @@
                 [
                     "1517446348227994:84813",
                     "1582074492633064:2332",
-                    "1582074592502484:2900",
                     "1584063160214168:77243",
                     "1584068427296999:108689",
-                    "1584142264781149:115675",
                     "1584155987378911:48971",
                     "1584156272873389:88685"
                 ]
@@ -297,6 +295,38 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1597246931461233:261846",
+                    "name": "Files\/File37.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1597246931488985:261853",
+                    "name": "Files\/File39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1597246931517989:261860",
+                    "name": "Files\/File41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1597246931545742:261867",
+                    "name": "Files\/File43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -521,6 +551,38 @@
                 {
                     "k": "36",
                     "v": "Files\/File36.onnx"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
                 }
             ]
         },
@@ -600,6 +662,22 @@
                     {
                         "k": "11075",
                         "v": "againnet.onnx"
+                    },
+                    {
+                        "k": "11077",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "11078",
+                        "v": "Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "11079",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "11080",
+                        "v": "Textures\/white.png"
                     }
                 ],
                 "hashes": [
@@ -714,14 +792,30 @@
                     {
                         "k": "11075",
                         "v": "f01fea4b15351f9529043e4dcbc78816"
+                    },
+                    {
+                        "k": "11077",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "11078",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "11079",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "11080",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-11T18:03:37",
+                        "lastModified": "2020-08-12T16:25:51",
                         "name": "Public",
-                        "hash": "220cc710f2e5ba047016e5a62af8c21f",
+                        "hash": "d181f070ae5861b83b9bbfbeb4124146",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -732,7 +826,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-11T18:04:34",
                                 "name": "Default Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
@@ -754,7 +848,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-11T18:04:34",
                                 "name": "Fonts",
                                 "hash": "16060818347d2e309d73a640d4470e01",
                                 "children": [
@@ -776,7 +870,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-11T18:04:34",
                                 "name": "ML Hint",
                                 "hash": "0ee6d1809fe40ed88fbadb8324efb592",
                                 "children": [
@@ -789,7 +883,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-11T18:03:16",
+                                        "lastModified": "2020-08-11T18:04:34",
                                         "name": "Textures",
                                         "hash": "45d9e526e3f9b136f7e3284472423734",
                                         "children": [
@@ -802,7 +896,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2020-08-11T18:03:16",
+                                                "lastModified": "2020-08-11T18:04:34",
                                                 "name": "ml_loading",
                                                 "hash": "f8270a876c153af7dfa33db3eddc5d95",
                                                 "children": [
@@ -828,7 +922,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-11T18:04:34",
                                 "name": "Models",
                                 "hash": "91b3d4cb2a2f06a9b09e5f9f012102bc",
                                 "children": [
@@ -864,7 +958,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-11T18:04:34",
                                 "name": "Scripts",
                                 "hash": "e43b997f1a303470f127238792704f61",
                                 "children": [
@@ -886,15 +980,36 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-11T18:03:16",
+                                "lastModified": "2020-08-12T15:38:52",
                                 "name": "Textures",
-                                "hash": "99b7a8dc447187315cdea4dc98af224d",
+                                "hash": "69ea8f8f49507bc39300866ac3217027",
                                 "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-12T14:38:24",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2020-07-10T09:03:14",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-12T14:38:24",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-12T14:38:24",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
@@ -916,6 +1031,13 @@
                                         "lastModified": "2020-07-10T09:03:14",
                                         "name": "transparent_texture.png",
                                         "hash": "08971f2bf43c48d2b21787ff45660a3f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-12T15:38:51",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
                                         "children": ""
                                     }
                                 ]
@@ -2043,6 +2165,58 @@
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
                                 "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "67",
+                                "dependency": "0",
+                                "uid": "1597246931461233:261846",
+                                "fileId": "37",
+                                "originalId": "38",
+                                "publicId": "11077",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/Base.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "68",
+                                "dependency": "0",
+                                "uid": "1597246931488985:261853",
+                                "fileId": "39",
+                                "originalId": "40",
+                                "publicId": "11078",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/MaterialParams.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "69",
+                                "dependency": "0",
+                                "uid": "1597246931517989:261860",
+                                "fileId": "41",
+                                "originalId": "42",
+                                "publicId": "11079",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/Normal.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "70",
+                                "dependency": "0",
+                                "uid": "1597246931545742:261867",
+                                "fileId": "43",
+                                "originalId": "44",
+                                "publicId": "11080",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/white.png",
                                 "additional": ""
                             }
                         ]
@@ -7021,7 +7195,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1584130933849130:108965"
+                    "1582074592617236:3035"
                 ]
             }
         },
