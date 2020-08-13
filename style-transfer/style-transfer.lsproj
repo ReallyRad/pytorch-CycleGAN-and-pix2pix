@@ -3,7 +3,7 @@
     "document_id": "bLaPpFbxLD__BP27YY_Y",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597326727633",
+    "lastChanged": "1597337443854",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -20,8 +20,8 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "3",
-            "minor": "0",
-            "patch": "1",
+            "minor": "1",
+            "patch": "0",
             "build": "0"
         }
     },
@@ -70,9 +70,17 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Raise Eyebrows Person 2.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 2.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -382,6 +390,14 @@
                     "resId": "89",
                     "uid": "1597321630120057:265188",
                     "name": "Files\/File73.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1597337273841001:3656",
+                    "name": "Files\/File75.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -789,6 +805,14 @@
                 {
                     "k": "74",
                     "v": "Files\/File74.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
                 }
             ]
         },
@@ -940,6 +964,10 @@
                     {
                         "k": "11109",
                         "v": "full.png"
+                    },
+                    {
+                        "k": "11110",
+                        "v": "full stretched.png"
                     }
                 ],
                 "hashes": [
@@ -1101,11 +1129,11 @@
                     },
                     {
                         "k": "11100",
-                        "v": "fee707703878c64339e6e8c2931306f3"
+                        "v": "18c613f85e800e77aa5f6f95b481fbb8"
                     },
                     {
                         "k": "11101",
-                        "v": "508981e6bf122cf7878690cf888c0776"
+                        "v": "ca70d1315ac20396f9e3fe540883a0b3"
                     },
                     {
                         "k": "11102",
@@ -1138,14 +1166,18 @@
                     {
                         "k": "11109",
                         "v": "5da508b500472344200a23a0e069d1c9"
+                    },
+                    {
+                        "k": "11110",
+                        "v": "b1bd520d5337b200df61351b85d8e187"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-13T14:52:02",
+                        "lastModified": "2020-08-13T17:40:06",
                         "name": "Public",
-                        "hash": "2110a52022b1bd52198512f498e61a8c",
+                        "hash": "0c6d68fd517747e2a2d9d01b82dd123f",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1170,7 +1202,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Default Textures",
                                 "hash": "cd8b1c110353f338d5fdc58a8884e964",
                                 "children": [
@@ -1199,7 +1231,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Example Textures [REMOVE_ME]",
                                 "hash": "40b43ada66853a4cb1d686e62a2c1869",
                                 "children": [
@@ -1235,7 +1267,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Fonts",
                                 "hash": "16060818347d2e309d73a640d4470e01",
                                 "children": [
@@ -1257,6 +1289,13 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-08-13T16:38:13",
+                                "name": "full stretched.png",
+                                "hash": "b1bd520d5337b200df61351b85d8e187",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-01-31T13:20:06",
                                 "name": "full.png",
                                 "hash": "5da508b500472344200a23a0e069d1c9",
@@ -1264,16 +1303,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T14:52:02",
+                                "lastModified": "2020-08-13T17:40:06",
                                 "name": "Graph Empty 2.lsmat",
-                                "hash": "c27f2d6b94e1f70e42061b1d8adfa330",
+                                "hash": "508981e6bf122cf7878690cf888c0776",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T14:52:02",
+                                "lastModified": "2020-08-13T17:40:06",
                                 "name": "Graph Empty.lsmat",
-                                "hash": "e1a49d8af6e33a6a70dfd9d9537f2187",
+                                "hash": "fee707703878c64339e6e8c2931306f3",
                                 "children": ""
                             },
                             {
@@ -1292,7 +1331,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Materials",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
@@ -1307,7 +1346,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "ML Hint",
                                 "hash": "0ee6d1809fe40ed88fbadb8324efb592",
                                 "children": [
@@ -1320,7 +1359,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-13T14:46:27",
+                                        "lastModified": "2020-08-13T14:57:02",
                                         "name": "Textures",
                                         "hash": "45d9e526e3f9b136f7e3284472423734",
                                         "children": [
@@ -1333,7 +1372,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2020-08-13T14:46:27",
+                                                "lastModified": "2020-08-13T14:57:02",
                                                 "name": "ml_loading",
                                                 "hash": "f8270a876c153af7dfa33db3eddc5d95",
                                                 "children": [
@@ -1359,7 +1398,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Models",
                                 "hash": "91b3d4cb2a2f06a9b09e5f9f012102bc",
                                 "children": [
@@ -1395,7 +1434,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Scripts",
                                 "hash": "e43b997f1a303470f127238792704f61",
                                 "children": [
@@ -1417,7 +1456,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:46:27",
+                                "lastModified": "2020-08-13T14:57:02",
                                 "name": "Textures",
                                 "hash": "e9dd5662f4f3501c25bdb1172d497e5b",
                                 "children": [
@@ -13135,6 +13174,19 @@
                                 }
                             ]
                         }
+                    },
+                    {
+                        "name": "full stretched",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "90",
+                        "dependency": "0",
+                        "uid": "1597337273841001:3656",
+                        "fileId": "75",
+                        "originalId": "76",
+                        "publicId": "11110",
+                        "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/full stretched.png",
+                        "additional": ""
                     }
                 ]
             }
@@ -13142,7 +13194,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1584035752418294:5617"
+                    "1582074592617236:3035"
                 ]
             }
         },
