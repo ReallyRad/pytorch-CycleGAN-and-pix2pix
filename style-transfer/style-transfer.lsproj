@@ -3,7 +3,7 @@
     "document_id": "bLaPpFbxLD__BP27YY_Y",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597337443854",
+    "lastChanged": "1597342845368",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -38,6 +38,7 @@
                     "1582074492633064:2332",
                     "1584063160214168:77243",
                     "1584068427296999:108689",
+                    "1584142264781149:115675",
                     "1584155987378911:48971",
                     "1584156272873389:88685"
                 ]
@@ -62,7 +63,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 3.jpg",
+                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/face.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -76,11 +77,11 @@
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/House",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -307,30 +308,6 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "77",
-                    "uid": "1597254252772084:22928",
-                    "name": "Portrait Head Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "78",
-                    "uid": "1597254268957918:23846",
-                    "name": "Portrait Background Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "79",
-                    "uid": "1597254287971047:24833",
-                    "name": "Render Target",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
                     "resId": "80",
                     "uid": "1597254770041334:48729",
                     "name": "Files\/File55",
@@ -517,20 +494,6 @@
                             }
                         },
                         {
-                            "k": "1597254186364042:20316",
-                            "v": {
-                                "isBasicMode": "true",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
                             "k": "1597254527117467:33038",
                             "v": {
                                 "isBasicMode": "true",
@@ -576,10 +539,8 @@
                 "8": "1584142264781149:115675",
                 "9": "1584156272873389:88685",
                 "10": "1584156272873812:88687",
-                "11": "1597254116449612:17147",
-                "12": "1597254174949953:18771",
-                "13": "1597254527116876:33036",
-                "14": "1597254527140564:33171"
+                "11": "1597254527116876:33036",
+                "12": "1597254527140564:33171"
             }
         },
         "LayerComponent": {
@@ -1129,11 +1090,11 @@
                     },
                     {
                         "k": "11100",
-                        "v": "18c613f85e800e77aa5f6f95b481fbb8"
+                        "v": "0e1c9a4579e10d050001f9a8d413060b"
                     },
                     {
                         "k": "11101",
-                        "v": "ca70d1315ac20396f9e3fe540883a0b3"
+                        "v": "7eac53b44255f91db0e9cd28b72ff6b1"
                     },
                     {
                         "k": "11102",
@@ -1169,15 +1130,15 @@
                     },
                     {
                         "k": "11110",
-                        "v": "b1bd520d5337b200df61351b85d8e187"
+                        "v": "c9437110cc6ad2e2bf03014c35431f32"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-13T17:40:06",
+                        "lastModified": "2020-08-13T19:17:44",
                         "name": "Public",
-                        "hash": "0c6d68fd517747e2a2d9d01b82dd123f",
+                        "hash": "f891a535b17bfb2cb61fb594a2af1845",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1289,9 +1250,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T16:38:13",
+                                "lastModified": "2020-08-13T19:17:44",
                                 "name": "full stretched.png",
-                                "hash": "b1bd520d5337b200df61351b85d8e187",
+                                "hash": "c9437110cc6ad2e2bf03014c35431f32",
                                 "children": ""
                             },
                             {
@@ -1303,16 +1264,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T17:40:06",
+                                "lastModified": "2020-08-13T18:31:10",
                                 "name": "Graph Empty 2.lsmat",
-                                "hash": "508981e6bf122cf7878690cf888c0776",
+                                "hash": "01956f25810f977174dae3e59e5faf88",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T17:40:06",
+                                "lastModified": "2020-08-13T18:31:10",
                                 "name": "Graph Empty.lsmat",
-                                "hash": "fee707703878c64339e6e8c2931306f3",
+                                "hash": "314efa37a678d1b5169f41d9228bd2d9",
                                 "children": ""
                             },
                             {
@@ -2594,19 +2555,6 @@
                                 "originalId": "48",
                                 "publicId": "11094",
                                 "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Default Textures\/white.png",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Segmentation Render Texture",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "79",
-                                "dependency": "0",
-                                "uid": "1597254287971047:24833",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
                                 "additional": ""
                             }
                         ]
@@ -5602,32 +5550,6 @@
                         "resourceId": "76",
                         "dependency": "0",
                         "uid": "1597253522793821:181836",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Portrait Head Segmentation",
-                        "type": "1",
-                        "subtype": "14",
-                        "resourceId": "77",
-                        "dependency": "0",
-                        "uid": "1597254252772084:22928",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Portrait Background Segmentation",
-                        "type": "1",
-                        "subtype": "14",
-                        "resourceId": "78",
-                        "dependency": "0",
-                        "uid": "1597254268957918:23846",
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
                         "publicId": "18446744073709551615",
@@ -13194,7 +13116,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1582074592617236:3035"
+                    "1584035752418294:5617"
                 ]
             }
         },
