@@ -3,7 +3,7 @@
     "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597428925819",
+    "lastChanged": "1597448738743",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -28,7 +28,14 @@
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Textures"
+                    ]
+                ]
             ]
         },
         "SceneTreeUiComponent": {
@@ -39,7 +46,8 @@
                     "1584063160214168:77243",
                     "1584068427296999:108689",
                     "1584155987378911:48971",
-                    "1584156272873389:88685"
+                    "1584156272873389:88685",
+                    "1597447125052279:79848"
                 ]
             ]
         },
@@ -64,7 +72,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 4.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Person 5.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -72,7 +80,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 5.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 5.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -363,6 +371,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1597447115845859:75074",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "99",
+                    "uid": "1597447116054843:75167",
+                    "name": "Files\/File90.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1597447116124283:75190",
+                    "name": "Files\/File92.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -555,7 +587,12 @@
                 "11": "1597254527116876:33036",
                 "12": "1597254527140564:33171",
                 "13": "1597397850605464:91414",
-                "14": "1597397850625006:91674"
+                "14": "1597397850625006:91674",
+                "15": "1597447125043874:79772",
+                "16": "1597447125052279:79848",
+                "17": "1597447125052591:79850",
+                "18": "1597447125063557:79859",
+                "19": "1597447125063830:79861"
             }
         },
         "LayerComponent": {
@@ -785,6 +822,30 @@
                 {
                     "k": "88",
                     "v": "Files\/File88.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.oprfb"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.png"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.png"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.oprfb"
                 }
             ]
         },
@@ -932,6 +993,22 @@
                     {
                         "k": "11123",
                         "v": "mask strong.png"
+                    },
+                    {
+                        "k": "11125",
+                        "v": "paint.oprfb"
+                    },
+                    {
+                        "k": "11126",
+                        "v": "example_texture [REMOVE_ME].png"
+                    },
+                    {
+                        "k": "11127",
+                        "v": "Opacity Textures"
+                    },
+                    {
+                        "k": "11128",
+                        "v": "Opacity Textures\/full_no_eye_lips.png"
                     }
                 ],
                 "hashes": [
@@ -1093,7 +1170,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "865f0c080ff6adc8315b7475dc56f4c1"
+                        "v": "7dc2866bc8c9f1a4d27d81bc6ffa3b65"
                     },
                     {
                         "k": "11101",
@@ -1149,23 +1226,35 @@
                     },
                     {
                         "k": "11118",
-                        "v": "8a501323ed478753c6d9b8eb26f2fdf2"
+                        "v": "ff690310788c4b5c9602ff97c573d43b"
                     },
                     {
                         "k": "11122",
-                        "v": "cc6f0db815896e8496900e132ff8f87a"
+                        "v": "b6eb4f0a9d6f51055c00d36db6892a7c"
                     },
                     {
                         "k": "11123",
                         "v": "03704efd3ef7b94d564966c7111b2169"
+                    },
+                    {
+                        "k": "11125",
+                        "v": "de731873a7d192314ae21ec86089bbfb"
+                    },
+                    {
+                        "k": "11126",
+                        "v": "86c3a77828c5f504000ce8f3f28fbaba"
+                    },
+                    {
+                        "k": "11128",
+                        "v": "95e79b482ffce043795f199cdc1f3969"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-14T18:54:26",
+                        "lastModified": "2020-08-15T00:33:22",
                         "name": "Public",
-                        "hash": "1bc09aa7c0b909af55708f94e3ce6ecf",
+                        "hash": "ecaf116848799e32a7a688331a7d8ec6",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1198,6 +1287,13 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-08-15T00:18:35",
+                                "name": "example_texture [REMOVE_ME].png",
+                                "hash": "86c3a77828c5f504000ce8f3f28fbaba",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-08-14T15:54:41",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -1227,9 +1323,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-14T18:54:26",
+                                "lastModified": "2020-08-15T00:33:22",
                                 "name": "mask cat.jpeg",
-                                "hash": "cc6f0db815896e8496900e132ff8f87a",
+                                "hash": "b6eb4f0a9d6f51055c00d36db6892a7c",
                                 "children": ""
                             },
                             {
@@ -1241,22 +1337,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T17:58:22",
+                                "lastModified": "2020-08-15T00:17:21",
                                 "name": "Materials",
-                                "hash": "b83e10ba7ca54169c2f54fa0e2f5205f",
+                                "hash": "3448fad259dd33a243441a129a0cb037",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-14T17:58:22",
+                                        "lastModified": "2020-08-15T00:17:21",
                                         "name": "Chroma Material.lsmat",
-                                        "hash": "d639c6a7f86395510b64d4141ceff9cf",
+                                        "hash": "6ec26dcef4ccbd535ffb0ffd4f57c69e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-14T17:58:22",
+                                        "lastModified": "2020-08-15T00:17:21",
                                         "name": "Color Remap.lsmat",
-                                        "hash": "fd3febe93d2c04fca10f22fe9897d107",
+                                        "hash": "ffa8e82f2e078c5e48eee8d4f7cc4554",
                                         "children": ""
                                     },
                                     {
@@ -1362,6 +1458,35 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-08-15T00:18:36",
+                                "name": "Opacity Textures",
+                                "hash": "250a42e73ffdd703f3c5301592e0a283",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-15T00:18:36",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-15T00:18:35",
+                                        "name": "full_no_eye_lips.png",
+                                        "hash": "95e79b482ffce043795f199cdc1f3969",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-15T00:18:35",
+                                "name": "paint.oprfb",
+                                "hash": "de731873a7d192314ae21ec86089bbfb",
+                                "children": ""
                             },
                             {
                                 "isFolder": "true",
@@ -12142,6 +12267,60 @@
                         "publicId": "11122",
                         "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask cat.jpeg",
                         "additional": ""
+                    },
+                    {
+                        "name": "example_texture [REMOVE_ME]",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "99",
+                        "dependency": "0",
+                        "uid": "1597447116054843:75167",
+                        "fileId": "90",
+                        "originalId": "91",
+                        "publicId": "11126",
+                        "source": "C:\/Users\/kogneu-admin\/AppData\/Local\/Temp\/Lens Studio-cdECAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Opacity Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11127",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "full_no_eye_lips",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "100",
+                                "dependency": "0",
+                                "uid": "1597447116124283:75190",
+                                "fileId": "92",
+                                "originalId": "93",
+                                "publicId": "11128",
+                                "source": "C:\/Users\/kogneu-admin\/AppData\/Local\/Temp\/Lens Studio-cdECAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "paint",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "98",
+                        "dependency": "0",
+                        "uid": "1597447115845859:75074",
+                        "fileId": "89",
+                        "originalId": "94",
+                        "publicId": "11125",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -12149,7 +12328,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1584035752418294:5617"
+                    "1597447125043874:79772"
                 ]
             }
         },
@@ -12180,7 +12359,49 @@
         },
         "ObjectPrefabController": {
             "state": {
-                "objectToInfo": ""
+                "objectToInfo": [
+                    {
+                        "k": "1597447125043874:79772",
+                        "v": {
+                            "prefab": "1597447115845859:75074",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1597447116203344:75251",
+                                    "v": "1597447125043874:79772"
+                                },
+                                {
+                                    "k": "1597447116203354:75253",
+                                    "v": "1597447125044399:79786"
+                                },
+                                {
+                                    "k": "1597447116203394:75257",
+                                    "v": "1597447125052279:79848"
+                                },
+                                {
+                                    "k": "1597447116203400:75259",
+                                    "v": "1597447125052591:79850"
+                                },
+                                {
+                                    "k": "1597447116203404:75261",
+                                    "v": "1597447125052847:79852"
+                                },
+                                {
+                                    "k": "1597447116203438:75264",
+                                    "v": "1597447125063557:79859"
+                                },
+                                {
+                                    "k": "1597447116203441:75266",
+                                    "v": "1597447125063830:79861"
+                                },
+                                {
+                                    "k": "1597447116203444:75268",
+                                    "v": "1597447125064076:79863"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             "importInfo": ""
         }
