@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
-    "document_id": "bLaPpFbxLD__BP27YY_Y",
+    "lens_id": "aa847b19-eb6d-40d1-be19-4da787e25b88",
+    "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597397557383",
+    "lastChanged": "1597402394270",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -60,18 +60,19 @@
                     "1582074492633064:2332",
                     "1584063160214168:77243",
                     "1584068427296999:108689",
-                    "1584142264781149:115675",
                     "1584155987378911:48971",
                     "1584156272873389:88685"
                 ]
             ]
         },
         "MetaInfoUIComponent": {
+            "icon_hash": "af29944dd8a16a1e132745a771f1ea25",
+            "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
-                ""
+                "lens_hint_find_face"
             ],
-            "lens": "Style Transfer",
+            "lens": "Normal Cat Filter",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -85,7 +86,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/face.jpg",
+                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/faces\/luchad.png",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -550,6 +551,34 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1597397850643984:91938",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1597397850814313:92140",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -570,7 +599,9 @@
                 "9": "1584156272873389:88685",
                 "10": "1584156272873812:88687",
                 "11": "1597254527116876:33036",
-                "12": "1597254527140564:33171"
+                "12": "1597254527140564:33171",
+                "13": "1597397850605464:91414",
+                "14": "1597397850625006:91674"
             }
         },
         "LayerComponent": {
@@ -1144,7 +1175,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "407c1d2beb094bf797e0ca7595e460b4"
+                        "v": "f68e54764b752c1e82700f5e16ccedda"
                     },
                     {
                         "k": "11101",
@@ -1200,15 +1231,15 @@
                     },
                     {
                         "k": "11118",
-                        "v": "f0796824068990ce874034743466422e"
+                        "v": "f81c820d136f0db1e29c0ce6a1445d6e"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-14T10:31:37",
+                        "lastModified": "2020-08-14T11:50:26",
                         "name": "Public",
-                        "hash": "7c7881307d19db0324b038ad27d76507",
+                        "hash": "bd0c2f8c52cd3d7b38b1dcdbe4810f02",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1233,21 +1264,21 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T19:20:44",
+                                "lastModified": "2020-08-14T11:50:26",
                                 "name": "Chroma Material.lsmat",
-                                "hash": "0e1c9a4579e10d050001f9a8d413060b",
+                                "hash": "39de4298f9f8f0f1d55e783cadcea90a",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-14T10:26:20",
+                                "lastModified": "2020-08-14T11:50:26",
                                 "name": "Color Remap.lsmat",
-                                "hash": "e0be0f14663d8e865c63ab460f65c11d",
+                                "hash": "95e85dd527ae5bbd2ce8253299c6a765",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Default Textures",
                                 "hash": "cd8b1c110353f338d5fdc58a8884e964",
                                 "children": [
@@ -1276,7 +1307,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T20:04:35",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Example Textures [REMOVE_ME]",
                                 "hash": "40b43ada66853a4cb1d686e62a2c1869",
                                 "children": [
@@ -1312,7 +1343,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Fonts",
                                 "hash": "16060818347d2e309d73a640d4470e01",
                                 "children": [
@@ -1355,7 +1386,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T20:04:35",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Materials",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
@@ -1370,7 +1401,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "ML Hint",
                                 "hash": "0ee6d1809fe40ed88fbadb8324efb592",
                                 "children": [
@@ -1383,7 +1414,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-13T14:57:02",
+                                        "lastModified": "2020-08-14T11:30:39",
                                         "name": "Textures",
                                         "hash": "45d9e526e3f9b136f7e3284472423734",
                                         "children": [
@@ -1396,7 +1427,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2020-08-13T14:57:02",
+                                                "lastModified": "2020-08-14T11:30:39",
                                                 "name": "ml_loading",
                                                 "hash": "f8270a876c153af7dfa33db3eddc5d95",
                                                 "children": [
@@ -1422,7 +1453,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Models",
                                 "hash": "91b3d4cb2a2f06a9b09e5f9f012102bc",
                                 "children": [
@@ -1458,7 +1489,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Scripts",
                                 "hash": "e43b997f1a303470f127238792704f61",
                                 "children": [
@@ -1480,7 +1511,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T19:46:13",
+                                "lastModified": "2020-08-14T11:30:39",
                                 "name": "Textures",
                                 "hash": "ad9db4c72ac3ce6a60988c0d03e89b9d",
                                 "children": [
@@ -13212,13 +13243,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1597397180023029:11935",
-                        "path_list": [
-                            "Color Remap"
-                        ]
-                    }
+                "objects": [
+                    "1584130933849130:108965"
                 ]
             }
         },
