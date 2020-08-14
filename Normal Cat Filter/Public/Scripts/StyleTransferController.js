@@ -17,7 +17,6 @@
 //@input SceneObject photoButton  {"showIf" : "advanced"}
 //@input SceneObject resetButton  {"showIf" : "advanced"}
 
-
 var mlComponent;
 var config;
 var currentDevicePerformanceIndex;
