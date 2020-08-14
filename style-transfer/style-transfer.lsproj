@@ -3,7 +3,7 @@
     "document_id": "bLaPpFbxLD__BP27YY_Y",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597342845368",
+    "lastChanged": "1597397557383",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -28,7 +28,29 @@
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]"
+                    ],
+                    [
+                        "Fonts"
+                    ],
+                    [
+                        "ML Hint"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ]
+                ]
             ]
         },
         "SceneTreeUiComponent": {
@@ -188,14 +210,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "61",
-                    "uid": "1584421009022471:25898",
-                    "name": "output1 Proxy Texture",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
                     "resId": "62",
                     "uid": "1589415213868927:71466",
                     "name": "Files\/File32.dnn",
@@ -215,14 +229,6 @@
                     "resId": "65",
                     "uid": "1597165441052128:39682",
                     "name": "Face Crop Texture",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "66",
-                    "uid": "1597165448667597:41684",
-                    "name": "output Proxy Texture",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
@@ -316,14 +322,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "81",
-                    "uid": "1597255007545545:60028",
-                    "name": "Files\/File57",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "82",
                     "uid": "1597255423873783:74388",
                     "name": "Files\/File59",
@@ -335,14 +333,6 @@
                     "resId": "83",
                     "uid": "1597255424476673:74423",
                     "name": "Files\/File61.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "84",
-                    "uid": "1597256941467444:247932",
-                    "name": "Files\/File63.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -378,6 +368,46 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1597397179842362:11894",
+                    "name": "Files\/File77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1597397179868371:11901",
+                    "name": "Files\/File79.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1597397179893578:11908",
+                    "name": "Files\/File81.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "94",
+                    "uid": "1597397180023029:11935",
+                    "name": "Files\/File83",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "95",
+                    "uid": "1597397180274922:11983",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -712,14 +742,6 @@
                     "v": "Files\/File56.lsmat"
                 },
                 {
-                    "k": "57",
-                    "v": "Files\/File57"
-                },
-                {
-                    "k": "58",
-                    "v": "Files\/File58.lsmat"
-                },
-                {
                     "k": "59",
                     "v": "Files\/File59"
                 },
@@ -734,14 +756,6 @@
                 {
                     "k": "62",
                     "v": "Files\/File62.png"
-                },
-                {
-                    "k": "63",
-                    "v": "Files\/File63.png"
-                },
-                {
-                    "k": "64",
-                    "v": "Files\/File64.png"
                 },
                 {
                     "k": "65",
@@ -774,6 +788,38 @@
                 {
                     "k": "76",
                     "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.lsmat"
                 }
             ]
         },
@@ -896,11 +942,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "Graph Empty.lsmat"
-                    },
-                    {
-                        "k": "11101",
-                        "v": "Graph Empty 2.lsmat"
+                        "v": "Chroma Material.lsmat"
                     },
                     {
                         "k": "11102",
@@ -909,10 +951,6 @@
                     {
                         "k": "11103",
                         "v": "Image.lsmat"
-                    },
-                    {
-                        "k": "11104",
-                        "v": "image (2).png"
                     },
                     {
                         "k": "11105",
@@ -929,6 +967,22 @@
                     {
                         "k": "11110",
                         "v": "full stretched.png"
+                    },
+                    {
+                        "k": "11115",
+                        "v": "Textures\/Beauty.png"
+                    },
+                    {
+                        "k": "11116",
+                        "v": "Textures\/PE_Scanline.png"
+                    },
+                    {
+                        "k": "11117",
+                        "v": "Textures\/PE_Screen_Vector.png"
+                    },
+                    {
+                        "k": "11118",
+                        "v": "Color Remap.lsmat"
                     }
                 ],
                 "hashes": [
@@ -1090,7 +1144,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "0e1c9a4579e10d050001f9a8d413060b"
+                        "v": "407c1d2beb094bf797e0ca7595e460b4"
                     },
                     {
                         "k": "11101",
@@ -1131,14 +1185,30 @@
                     {
                         "k": "11110",
                         "v": "c9437110cc6ad2e2bf03014c35431f32"
+                    },
+                    {
+                        "k": "11115",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "11116",
+                        "v": "fe51cf23f683ce06ef70a91cf6a35106"
+                    },
+                    {
+                        "k": "11117",
+                        "v": "b4361cdf13dbd1e9f019c5b1f8199509"
+                    },
+                    {
+                        "k": "11118",
+                        "v": "f0796824068990ce874034743466422e"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-13T19:17:44",
+                        "lastModified": "2020-08-14T10:31:37",
                         "name": "Public",
-                        "hash": "f891a535b17bfb2cb61fb594a2af1845",
+                        "hash": "7c7881307d19db0324b038ad27d76507",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1159,6 +1229,20 @@
                                 "lastModified": "2020-08-12T18:26:54",
                                 "name": "againnet.onnx",
                                 "hash": "29d48833d1b214c5402dcd245eb0255f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-13T19:20:44",
+                                "name": "Chroma Material.lsmat",
+                                "hash": "0e1c9a4579e10d050001f9a8d413060b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-14T10:26:20",
+                                "name": "Color Remap.lsmat",
+                                "hash": "e0be0f14663d8e865c63ab460f65c11d",
                                 "children": ""
                             },
                             {
@@ -1192,13 +1276,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-13T20:04:35",
                                 "name": "Example Textures [REMOVE_ME]",
                                 "hash": "40b43ada66853a4cb1d686e62a2c1869",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-12T18:22:01",
+                                        "lastModified": "2020-08-13T20:04:35",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1264,27 +1348,6 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-13T18:31:10",
-                                "name": "Graph Empty 2.lsmat",
-                                "hash": "01956f25810f977174dae3e59e5faf88",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2020-08-13T18:31:10",
-                                "name": "Graph Empty.lsmat",
-                                "hash": "314efa37a678d1b5169f41d9228bd2d9",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2020-08-12T19:28:47",
-                                "name": "image (2).png",
-                                "hash": "2d73d4214d03b446923381cd54c3e089",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
                                 "lastModified": "2020-08-12T19:03:46",
                                 "name": "Image.lsmat",
                                 "hash": "943a21200f7e42698c5424bdce547f5b",
@@ -1292,13 +1355,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-13T20:04:35",
                                 "name": "Materials",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-12T18:22:01",
+                                        "lastModified": "2020-08-13T20:04:35",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1417,15 +1480,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-13T14:57:02",
+                                "lastModified": "2020-08-13T19:46:13",
                                 "name": "Textures",
-                                "hash": "e9dd5662f4f3501c25bdb1172d497e5b",
+                                "hash": "ad9db4c72ac3ce6a60988c0d03e89b9d",
                                 "children": [
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2020-08-12T14:38:24",
                                         "name": "Base.png",
                                         "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-13T19:44:08",
+                                        "name": "Beauty.png",
+                                        "hash": "a276acaed7d65e4c1b56181771677a77",
                                         "children": ""
                                     },
                                     {
@@ -1454,6 +1524,20 @@
                                         "lastModified": "2020-08-12T14:38:24",
                                         "name": "Normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-13T19:46:13",
+                                        "name": "PE_Scanline.png",
+                                        "hash": "fe51cf23f683ce06ef70a91cf6a35106",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-13T19:46:13",
+                                        "name": "PE_Screen_Vector.png",
+                                        "hash": "b4361cdf13dbd1e9f019c5b1f8199509",
                                         "children": ""
                                     },
                                     {
@@ -2625,19 +2709,6 @@
                                 "additional": ""
                             },
                             {
-                                "name": "output1 Proxy Texture",
-                                "type": "1",
-                                "subtype": "19",
-                                "resourceId": "61",
-                                "dependency": "0",
-                                "uid": "1584421009022471:25898",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
                                 "name": "Base",
                                 "type": "1",
                                 "subtype": "9",
@@ -2700,6 +2771,71 @@
                                 "originalId": "62",
                                 "publicId": "11102",
                                 "source": "C:\/Users\/kogneu-admin\/AppData\/Local\/Temp\/Lens Studio-RBBZDV\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Beauty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "91",
+                                "dependency": "0",
+                                "uid": "1597397179842362:11894",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "11115",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/Beauty.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PE_Scanline",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "92",
+                                "dependency": "0",
+                                "uid": "1597397179868371:11901",
+                                "fileId": "79",
+                                "originalId": "80",
+                                "publicId": "11116",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/PE_Scanline.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PE_Screen_Vector",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "uid": "1597397179893578:11908",
+                                "fileId": "81",
+                                "originalId": "82",
+                                "publicId": "11117",
+                                "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/Textures\/PE_Screen_Vector.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "95",
+                                "dependency": "0",
+                                "uid": "1597397180274922:11983",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "output Proxy Texture 2",
+                                "type": "1",
+                                "subtype": "19",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1597253522793821:181836",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
@@ -2823,19 +2959,6 @@
                         "resourceId": "65",
                         "dependency": "0",
                         "uid": "1597165441052128:39682",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "output Proxy Texture",
-                        "type": "1",
-                        "subtype": "19",
-                        "resourceId": "66",
-                        "dependency": "0",
-                        "uid": "1597165448667597:41684",
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
                         "publicId": "18446744073709551615",
@@ -5544,20 +5667,7 @@
                         }
                     },
                     {
-                        "name": "output Proxy Texture 2",
-                        "type": "1",
-                        "subtype": "19",
-                        "resourceId": "76",
-                        "dependency": "0",
-                        "uid": "1597253522793821:181836",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Graph Empty",
+                        "name": "Chroma Material",
                         "type": "2",
                         "subtype": "1",
                         "resourceId": "80",
@@ -5566,19 +5676,6 @@
                         "fileId": "55",
                         "originalId": "56",
                         "publicId": "11100",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Graph Empty 2",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "81",
-                        "dependency": "0",
-                        "uid": "1597255007545545:60028",
-                        "fileId": "57",
-                        "originalId": "58",
-                        "publicId": "11101",
                         "source": "",
                         "additional": ""
                     },
@@ -5593,19 +5690,6 @@
                         "originalId": "60",
                         "publicId": "11103",
                         "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "image (2)",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "84",
-                        "dependency": "0",
-                        "uid": "1597256941467444:247932",
-                        "fileId": "63",
-                        "originalId": "64",
-                        "publicId": "11104",
-                        "source": "C:\/Users\/kogneu-admin\/Downloads\/image (2).png",
                         "additional": ""
                     },
                     {
@@ -13109,14 +13193,32 @@
                         "publicId": "11110",
                         "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/style-transfer\/Public\/full stretched.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "Color Remap",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "94",
+                        "dependency": "0",
+                        "uid": "1597397180023029:11935",
+                        "fileId": "83",
+                        "originalId": "84",
+                        "publicId": "11118",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1584035752418294:5617"
+                "resources": [
+                    {
+                        "uid": "1597397180023029:11935",
+                        "path_list": [
+                            "Color Remap"
+                        ]
+                    }
                 ]
             }
         },
