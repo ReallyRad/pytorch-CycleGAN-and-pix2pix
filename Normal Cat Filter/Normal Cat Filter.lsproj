@@ -3,7 +3,7 @@
     "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597496143693",
+    "lastChanged": "1597497931919",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -45,7 +45,7 @@
                         "Models"
                     ],
                     [
-                        "Scripts"
+                        "Textures"
                     ],
                     [
                         "full"
@@ -94,7 +94,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/faces\/external-content.duckduckgo.jpg",
+                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/faces\/lu.png",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -102,7 +102,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 4.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 2.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -721,6 +721,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1597496296382968:4825",
+                    "name": "Files\/File185.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1597496296423698:4832",
+                    "name": "Files\/File187.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1489,6 +1505,22 @@
                 {
                     "k": "184",
                     "v": "Files\/File184.oprfb"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.png"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.png"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.png"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.png"
                 }
             ]
         },
@@ -1828,6 +1860,14 @@
                     {
                         "k": "11179",
                         "v": "Output Image.oprfb"
+                    },
+                    {
+                        "k": "11180",
+                        "v": "mask ears 2.png"
+                    },
+                    {
+                        "k": "11181",
+                        "v": "mask strong.png"
                     }
                 ],
                 "hashes": [
@@ -1881,7 +1921,7 @@
                     },
                     {
                         "k": "95",
-                        "v": "92c2f650faed5ba1d01eed55ad328630"
+                        "v": "9ee2dcead448f75ae43d83eab34f1a3a"
                     },
                     {
                         "k": "96",
@@ -1989,7 +2029,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "f9392deec88fde4fd7f0bc490c88c940"
+                        "v": "f2255b27494dbb51fe7c3f96e960bba5"
                     },
                     {
                         "k": "11101",
@@ -2045,7 +2085,7 @@
                     },
                     {
                         "k": "11118",
-                        "v": "c6c16b8fb91f3b07bbc215132d1b77da"
+                        "v": "71bc79e3f4cabfadf6baefc04fafacd8"
                     },
                     {
                         "k": "11122",
@@ -2270,14 +2310,22 @@
                     {
                         "k": "11179",
                         "v": "1fffd8e7a2d15a7a613876a556b9db0e"
+                    },
+                    {
+                        "k": "11180",
+                        "v": "5edaf3ccf521aad3058a7b23132dde7c"
+                    },
+                    {
+                        "k": "11181",
+                        "v": "03704efd3ef7b94d564966c7111b2169"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-15T13:52:45",
+                        "lastModified": "2020-08-15T13:57:08",
                         "name": "Public",
-                        "hash": "3e13ca3d78306d55298077494fd50580",
+                        "hash": "b0a5cf372f229498d411bef9b1e6fa9e",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -2288,13 +2336,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T13:35:15",
+                                "lastModified": "2020-08-15T13:57:08",
                                 "name": "2D Objects Template [REMOVE_ME]",
                                 "hash": "64e13f91c1158d76e7b701925aff5e85",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T13:35:19",
+                                        "lastModified": "2020-08-15T13:57:08",
                                         "name": "Ear",
                                         "hash": "c04119ff91fb9fbb598289d5d2ba0a75",
                                         "children": [
@@ -2344,7 +2392,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T13:35:19",
+                                        "lastModified": "2020-08-15T13:57:08",
                                         "name": "Extras",
                                         "hash": "8364421a21a2aef7268cfd431889968d",
                                         "children": [
@@ -2394,7 +2442,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T13:35:19",
+                                        "lastModified": "2020-08-15T13:57:08",
                                         "name": "Headband",
                                         "hash": "988466fec90b5789e9eeddf033a0be18",
                                         "children": [
@@ -2451,7 +2499,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T13:35:19",
+                                        "lastModified": "2020-08-15T13:57:08",
                                         "name": "Nose",
                                         "hash": "7239d3be9836bd9fda2773d8086bac11",
                                         "children": [
@@ -2508,7 +2556,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T13:35:19",
+                                        "lastModified": "2020-08-15T13:57:08",
                                         "name": "Sunglasses",
                                         "hash": "81ef72f66f6078366f6413ac3b81febf",
                                         "children": [
@@ -2609,7 +2657,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:05",
+                                "lastModified": "2020-08-15T13:57:08",
                                 "name": "Default Textures",
                                 "hash": "cd8b1c110353f338d5fdc58a8884e964",
                                 "children": [
@@ -2652,7 +2700,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:14",
+                                "lastModified": "2020-08-15T13:57:08",
                                 "name": "Fonts",
                                 "hash": "16060818347d2e309d73a640d4470e01",
                                 "children": [
@@ -2695,29 +2743,43 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-08-15T01:56:18",
+                                "name": "mask ears 2.png",
+                                "hash": "5edaf3ccf521aad3058a7b23132dde7c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-08-15T12:07:37",
                                 "name": "mask ears.jpg",
                                 "hash": "ae9b246b65cc6bbc545761033cda6630",
                                 "children": ""
                             },
                             {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-14T18:07:24",
+                                "name": "mask strong.png",
+                                "hash": "03704efd3ef7b94d564966c7111b2169",
+                                "children": ""
+                            },
+                            {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T13:30:02",
+                                "lastModified": "2020-08-15T14:23:49",
                                 "name": "Materials",
-                                "hash": "0bbfa652d044cf578668492597e5325c",
+                                "hash": "98b9fc55a372d02ee1e29b4df2864fc5",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T13:30:02",
+                                        "lastModified": "2020-08-15T14:23:49",
                                         "name": "Chroma Material.lsmat",
-                                        "hash": "a6d3cbab4e235b99b0df563b2b53ef54",
+                                        "hash": "0cd22dab6d9d70a3379b801db8676e04",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T13:30:02",
+                                        "lastModified": "2020-08-15T14:23:49",
                                         "name": "Color Remap.lsmat",
-                                        "hash": "b16250ee107624190c944f0c2d3920a5",
+                                        "hash": "de6bc4262140173f9f80ef26805452c3",
                                         "children": ""
                                     },
                                     {
@@ -2738,7 +2800,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:38:59",
+                                "lastModified": "2020-08-15T13:57:09",
                                 "name": "ML Hint",
                                 "hash": "0ee6d1809fe40ed88fbadb8324efb592",
                                 "children": [
@@ -2751,7 +2813,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-15T11:39:01",
+                                        "lastModified": "2020-08-15T13:57:09",
                                         "name": "Textures",
                                         "hash": "45d9e526e3f9b136f7e3284472423734",
                                         "children": [
@@ -2764,7 +2826,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2020-08-15T11:39:09",
+                                                "lastModified": "2020-08-15T13:57:09",
                                                 "name": "ml_loading",
                                                 "hash": "f8270a876c153af7dfa33db3eddc5d95",
                                                 "children": [
@@ -2790,7 +2852,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:04",
+                                "lastModified": "2020-08-15T13:57:09",
                                 "name": "Models",
                                 "hash": "26895c9faee2226b8b812557f3ccb0f3",
                                 "children": [
@@ -2826,7 +2888,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:05",
+                                "lastModified": "2020-08-15T13:57:09",
                                 "name": "Opacity Textures",
                                 "hash": "250a42e73ffdd703f3c5301592e0a283",
                                 "children": [
@@ -2862,9 +2924,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:14",
+                                "lastModified": "2020-08-15T14:02:36",
                                 "name": "Scripts",
-                                "hash": "9aea9420cb65056a135036449db8db8e",
+                                "hash": "6bba99e7a66f81cbc8197ed7876cb064",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -2875,16 +2937,16 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-14T16:03:19",
+                                        "lastModified": "2020-08-15T14:02:36",
                                         "name": "StyleTransferController.js",
-                                        "hash": "92c2f650faed5ba1d01eed55ad328630",
+                                        "hash": "9ee2dcead448f75ae43d83eab34f1a3a",
                                         "children": ""
                                     }
                                 ]
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T13:50:35",
+                                "lastModified": "2020-08-15T13:57:09",
                                 "name": "Textures",
                                 "hash": "e063b5013a7e11d0738dfc5ce6a076b1",
                                 "children": [
@@ -14284,6 +14346,32 @@
                         "publicId": "11179",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "mask ears 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "146",
+                        "dependency": "0",
+                        "uid": "1597496296382968:4825",
+                        "fileId": "185",
+                        "originalId": "186",
+                        "publicId": "11180",
+                        "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask ears 2.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "mask strong",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "147",
+                        "dependency": "0",
+                        "uid": "1597496296423698:4832",
+                        "fileId": "187",
+                        "originalId": "188",
+                        "publicId": "11181",
+                        "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask strong.png",
+                        "additional": ""
                     }
                 ]
             }
@@ -14291,7 +14379,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1597496038145764:22323"
+                    "1584130933849130:108965"
                 ]
             }
         },

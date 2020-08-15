@@ -15,6 +15,7 @@
 //@input bool advanced
 //@input SceneObject loader {"showIf" : "advanced"}
 //@input SceneObject photoButton  {"showIf" : "advanced"}
+//@input SceneObject facePlaceholder  {"showIf" : "advanced"}
 //@input SceneObject resetButton  {"showIf" : "advanced"}
 
 var mlComponent;
@@ -108,7 +109,10 @@ function runOnDemand() {
     script.createEvent("TapEvent").bind(onTap);
     
     if (script.loader) { script.loader.enabled = false; }
-    if (script.photoButton) { script.photoButton.enabled = true; }   
+    if (script.photoButton) { 
+        script.photoButton.enabled = true; 
+        script.facePlaceholder.enabled = true;
+    }   
 }
 
 function onTap() {
@@ -126,7 +130,10 @@ function runOnce() {
     mlComponent.runImmediate(false);
 
     if (script.loader) { script.loader.enabled = true; }
-    if (script.photoButton) { script.photoButton.enabled = false; }
+    if (script.photoButton) { 
+        script.photoButton.enabled = false; 
+        script.facePlaceholder.enabled = false;
+    }
 
     frameProcessed = true;
 }
