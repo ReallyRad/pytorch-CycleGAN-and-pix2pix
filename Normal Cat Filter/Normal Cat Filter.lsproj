@@ -3,7 +3,7 @@
     "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597493707060",
+    "lastChanged": "1597496143693",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -48,9 +48,6 @@
                         "Scripts"
                     ],
                     [
-                        "Textures"
-                    ],
-                    [
                         "full"
                     ],
                     [
@@ -67,7 +64,6 @@
                 [
                     "1517446348227994:84813",
                     "1582074492633064:2332",
-                    "1584063160214168:77243",
                     "1584068427296999:108689",
                     "1584155987378911:48971",
                     "1584156272873389:88685",
@@ -437,6 +433,294 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1597495963817788:4058",
+                    "name": "Files\/File113.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1597495963864809:4066",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1597495963970118:4095",
+                    "name": "Files\/File116.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1597495963996929:4102",
+                    "name": "Files\/File118.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "114",
+                    "uid": "1597495964023017:4109",
+                    "name": "Files\/File120.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "115",
+                    "uid": "1597495964049969:4116",
+                    "name": "Files\/File122.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "116",
+                    "uid": "1597495964077391:4123",
+                    "name": "Files\/File124.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "117",
+                    "uid": "1597495964106000:4130",
+                    "name": "Files\/File126.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "118",
+                    "uid": "1597495964133181:4137",
+                    "name": "Files\/File128.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "119",
+                    "uid": "1597495964160755:4144",
+                    "name": "Files\/File130.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "120",
+                    "uid": "1597495964188778:4151",
+                    "name": "Files\/File132.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "121",
+                    "uid": "1597495964218197:4158",
+                    "name": "Files\/File134.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "122",
+                    "uid": "1597495964246916:4165",
+                    "name": "Files\/File136.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "123",
+                    "uid": "1597495964276139:4172",
+                    "name": "Files\/File138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "124",
+                    "uid": "1597495964305411:4179",
+                    "name": "Files\/File140.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "125",
+                    "uid": "1597495964334272:4186",
+                    "name": "Files\/File142.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "126",
+                    "uid": "1597495964362234:4193",
+                    "name": "Files\/File144.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1597495964392758:4200",
+                    "name": "Files\/File146.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "128",
+                    "uid": "1597495964421075:4207",
+                    "name": "Files\/File148.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1597495964449103:4214",
+                    "name": "Files\/File150.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "130",
+                    "uid": "1597495964477446:4221",
+                    "name": "Files\/File152.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "131",
+                    "uid": "1597495964505656:4228",
+                    "name": "Files\/File154.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1597495964534383:4235",
+                    "name": "Files\/File156.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "133",
+                    "uid": "1597495964565536:4242",
+                    "name": "Files\/File158.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1597495964593918:4249",
+                    "name": "Files\/File160.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1597495964622403:4256",
+                    "name": "Files\/File162.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "136",
+                    "uid": "1597495964650513:4263",
+                    "name": "Files\/File164.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1597495964678955:4270",
+                    "name": "Files\/File166.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1597495964709390:4277",
+                    "name": "Files\/File168.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1597495964738415:4284",
+                    "name": "Files\/File170.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1597495964767319:4291",
+                    "name": "Files\/File172.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1597495964795887:4298",
+                    "name": "Files\/File174.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1597495964824437:4305",
+                    "name": "Files\/File176.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1597495964853554:4312",
+                    "name": "Files\/File178.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1597495964881943:4319",
+                    "name": "Files\/File180.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1597495964894158:4327",
+                    "name": "sceneObject_1",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -607,6 +891,20 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1597496038164663:22587",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -631,10 +929,9 @@
                 "13": "1597397850605464:91414",
                 "14": "1597397850625006:91674",
                 "15": "1597447125043874:79772",
-                "16": "1597447125052279:79848",
-                "17": "1597447125052591:79850",
-                "18": "1597447125063557:79859",
-                "19": "1597447125063830:79861"
+                "16": "1597447125063557:79859",
+                "17": "1597447125063830:79861",
+                "18": "1597496038145764:22323"
             }
         },
         "LayerComponent": {
@@ -904,6 +1201,294 @@
                 {
                     "k": "112",
                     "v": "Files\/File112.jpg"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.png"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.png"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.oprfb"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.png"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.png"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.png"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.png"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.png"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.png"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.png"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.png"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.png"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.png"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.png"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.png"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.png"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.png"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.png"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.png"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.png"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.png"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.png"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.png"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.png"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137.png"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.png"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.png"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.png"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.png"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.png"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.png"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.png"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.png"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.png"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.png"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.png"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.png"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.png"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.png"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.png"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.png"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.png"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.png"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.png"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.png"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.png"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.png"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.png"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.png"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.png"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163.png"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.png"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165.png"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.png"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.png"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.png"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.png"
+                },
+                {
+                    "k": "170",
+                    "v": "Files\/File170.png"
+                },
+                {
+                    "k": "171",
+                    "v": "Files\/File171.png"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172.png"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.png"
+                },
+                {
+                    "k": "174",
+                    "v": "Files\/File174.png"
+                },
+                {
+                    "k": "175",
+                    "v": "Files\/File175.png"
+                },
+                {
+                    "k": "176",
+                    "v": "Files\/File176.png"
+                },
+                {
+                    "k": "177",
+                    "v": "Files\/File177.png"
+                },
+                {
+                    "k": "178",
+                    "v": "Files\/File178.png"
+                },
+                {
+                    "k": "179",
+                    "v": "Files\/File179.png"
+                },
+                {
+                    "k": "180",
+                    "v": "Files\/File180.png"
+                },
+                {
+                    "k": "181",
+                    "v": "Files\/File181.png"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.oprfb"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.oprfb"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.oprfb"
                 }
             ]
         },
@@ -1075,6 +1660,174 @@
                     {
                         "k": "11137",
                         "v": "mask ears.jpg"
+                    },
+                    {
+                        "k": "11138",
+                        "v": "Textures\/face placeholder.png"
+                    },
+                    {
+                        "k": "11139",
+                        "v": "2D Object Face Binding.oprfb"
+                    },
+                    {
+                        "k": "11140",
+                        "v": "2D Objects Template [REMOVE_ME]"
+                    },
+                    {
+                        "k": "11141",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear"
+                    },
+                    {
+                        "k": "11142",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_bear.png"
+                    },
+                    {
+                        "k": "11143",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_fox.png"
+                    },
+                    {
+                        "k": "11144",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_kitty.png"
+                    },
+                    {
+                        "k": "11145",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_purple_long.png"
+                    },
+                    {
+                        "k": "11146",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_wolf.png"
+                    },
+                    {
+                        "k": "11147",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras"
+                    },
+                    {
+                        "k": "11148",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_antlers.png"
+                    },
+                    {
+                        "k": "11149",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_black.png"
+                    },
+                    {
+                        "k": "11150",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_colored.png"
+                    },
+                    {
+                        "k": "11151",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_white.png"
+                    },
+                    {
+                        "k": "11152",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband"
+                    },
+                    {
+                        "k": "11153",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_clown.png"
+                    },
+                    {
+                        "k": "11154",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_dots.png"
+                    },
+                    {
+                        "k": "11155",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_half.png"
+                    },
+                    {
+                        "k": "11156",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_kitty.png"
+                    },
+                    {
+                        "k": "11157",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_rainbow.png"
+                    },
+                    {
+                        "k": "11158",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_worm.png"
+                    },
+                    {
+                        "k": "11159",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose"
+                    },
+                    {
+                        "k": "11160",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_clown.png"
+                    },
+                    {
+                        "k": "11161",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_deer.png"
+                    },
+                    {
+                        "k": "11162",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_dog.png"
+                    },
+                    {
+                        "k": "11163",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_heart.png"
+                    },
+                    {
+                        "k": "11164",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_pig.png"
+                    },
+                    {
+                        "k": "11165",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_simple.png"
+                    },
+                    {
+                        "k": "11166",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses"
+                    },
+                    {
+                        "k": "11167",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens.png"
+                    },
+                    {
+                        "k": "11168",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens_2.png"
+                    },
+                    {
+                        "k": "11169",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_lens.png"
+                    },
+                    {
+                        "k": "11170",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_sunglasses.png"
+                    },
+                    {
+                        "k": "11171",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_lens.png"
+                    },
+                    {
+                        "k": "11172",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_sunglasses.png"
+                    },
+                    {
+                        "k": "11173",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_lens.png"
+                    },
+                    {
+                        "k": "11174",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_sunglasses.png"
+                    },
+                    {
+                        "k": "11175",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/round_lenses.png"
+                    },
+                    {
+                        "k": "11176",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/round_sunglasses.png"
+                    },
+                    {
+                        "k": "11177",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/star_lens.png"
+                    },
+                    {
+                        "k": "11178",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/star_sunglasses.png"
+                    },
+                    {
+                        "k": "11179",
+                        "v": "Output Image.oprfb"
                     }
                 ],
                 "hashes": [
@@ -1236,7 +1989,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "f63f7db810871bd5633988f560ad57ec"
+                        "v": "f9392deec88fde4fd7f0bc490c88c940"
                     },
                     {
                         "k": "11101",
@@ -1292,7 +2045,7 @@
                     },
                     {
                         "k": "11118",
-                        "v": "505ebb6b2cb7a27f5b161dc3663f60f1"
+                        "v": "c6c16b8fb91f3b07bbc215132d1b77da"
                     },
                     {
                         "k": "11122",
@@ -1349,15 +2102,511 @@
                     {
                         "k": "11137",
                         "v": "ae9b246b65cc6bbc545761033cda6630"
+                    },
+                    {
+                        "k": "11138",
+                        "v": "e5eb278b95e0fc57eaed8093e09c7e3f"
+                    },
+                    {
+                        "k": "11139",
+                        "v": "f0485d88c9e7c1b000ebca9f7c0814a1"
+                    },
+                    {
+                        "k": "11140",
+                        "v": "c5343d26b5a2f66dd22a5c3103be35c0"
+                    },
+                    {
+                        "k": "11141",
+                        "v": "02042b15c987ece74e186b067055faff"
+                    },
+                    {
+                        "k": "11142",
+                        "v": "bfa201ee66a9fce54e9d35e2658e6c37"
+                    },
+                    {
+                        "k": "11143",
+                        "v": "59e4265ac4cecff2cb9ac30c3a9df57e"
+                    },
+                    {
+                        "k": "11144",
+                        "v": "d87281dddd8aa187edc5f081d958799e"
+                    },
+                    {
+                        "k": "11145",
+                        "v": "d53539b7c49e8e1a07c8db8b5d109b26"
+                    },
+                    {
+                        "k": "11146",
+                        "v": "931c0fa68e22e6e30837778edd1c65ec"
+                    },
+                    {
+                        "k": "11147",
+                        "v": "47d0dd68fb0fa4a4f39786f7bad27a2e"
+                    },
+                    {
+                        "k": "11148",
+                        "v": "5b5d19da9770ffb4da694d3c6fa7d171"
+                    },
+                    {
+                        "k": "11149",
+                        "v": "2b58d128442db7f9ccacea0aafda9aa2"
+                    },
+                    {
+                        "k": "11150",
+                        "v": "c51f4ef5db325933d5c981b638bc5633"
+                    },
+                    {
+                        "k": "11151",
+                        "v": "3d3c6a7084e3ec701e6a0230ea9a6c3d"
+                    },
+                    {
+                        "k": "11152",
+                        "v": "25561c9c8508e908cfab6061bb3ceae9"
+                    },
+                    {
+                        "k": "11153",
+                        "v": "d5699697bcb7b32001f9c65c7a7f75f0"
+                    },
+                    {
+                        "k": "11154",
+                        "v": "c246a6346accccfd55fc960df210bd4a"
+                    },
+                    {
+                        "k": "11155",
+                        "v": "0d8eb94fc24173135813992e02b8b3ed"
+                    },
+                    {
+                        "k": "11156",
+                        "v": "246299323ff3dc0fd4e179b6538f3d1e"
+                    },
+                    {
+                        "k": "11157",
+                        "v": "1a199698a9185fdf31ae999bd2f2aa2f"
+                    },
+                    {
+                        "k": "11158",
+                        "v": "53bc67c7aa9e1cf128d28367d3b2a6ef"
+                    },
+                    {
+                        "k": "11159",
+                        "v": "857c290f81d734bb5587889b1f9de5cf"
+                    },
+                    {
+                        "k": "11160",
+                        "v": "208697e43bd4afdd20cb945f3553d996"
+                    },
+                    {
+                        "k": "11161",
+                        "v": "9dc788ac89bafd2c22927a450336ca21"
+                    },
+                    {
+                        "k": "11162",
+                        "v": "c6103110df464ff36e6cfddbba0c2f15"
+                    },
+                    {
+                        "k": "11163",
+                        "v": "2adb7bc099b69a8d88b78e0845053b9d"
+                    },
+                    {
+                        "k": "11164",
+                        "v": "c82a64836d401b06ae24ed0fda3964dd"
+                    },
+                    {
+                        "k": "11165",
+                        "v": "c20d1b247e3af5fc38e30157698912d2"
+                    },
+                    {
+                        "k": "11166",
+                        "v": "316995ed2a1d9ac81269f82c264dba40"
+                    },
+                    {
+                        "k": "11167",
+                        "v": "69d88417aada0ae141195a3821d87bd2"
+                    },
+                    {
+                        "k": "11168",
+                        "v": "048ca406f1d83e0a6023a38701476126"
+                    },
+                    {
+                        "k": "11169",
+                        "v": "3cd3611585da76cff761c6c2355dfa73"
+                    },
+                    {
+                        "k": "11170",
+                        "v": "fd2e687299636ff16f93236e8a41ea5a"
+                    },
+                    {
+                        "k": "11171",
+                        "v": "11469be76bcaa839ae82b26320925caa"
+                    },
+                    {
+                        "k": "11172",
+                        "v": "d780009c9fc53ffefa8590ca03b306c5"
+                    },
+                    {
+                        "k": "11173",
+                        "v": "08649fdf92986a331d6c9d5a63ca9e6f"
+                    },
+                    {
+                        "k": "11174",
+                        "v": "59b88d6c7c5af148db256b5673ada2ad"
+                    },
+                    {
+                        "k": "11175",
+                        "v": "4c1c63c26de5b10166a6025fc047b579"
+                    },
+                    {
+                        "k": "11176",
+                        "v": "41899a09c781319792af8d4393d38b9b"
+                    },
+                    {
+                        "k": "11177",
+                        "v": "d6f7d413c131c2fd07cecfa7364fbb0e"
+                    },
+                    {
+                        "k": "11178",
+                        "v": "fa58298396d57ab0866ac218d2640f02"
+                    },
+                    {
+                        "k": "11179",
+                        "v": "1fffd8e7a2d15a7a613876a556b9db0e"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-15T13:10:03",
+                        "lastModified": "2020-08-15T13:52:45",
                         "name": "Public",
-                        "hash": "511e36c42bfe28879632003be90e9950",
+                        "hash": "3e13ca3d78306d55298077494fd50580",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-15T13:52:43",
+                                "name": "2D Object Face Binding.oprfb",
+                                "hash": "f0485d88c9e7c1b000ebca9f7c0814a1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-08-15T13:35:15",
+                                "name": "2D Objects Template [REMOVE_ME]",
+                                "hash": "64e13f91c1158d76e7b701925aff5e85",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-08-15T13:35:19",
+                                        "name": "Ear",
+                                        "hash": "c04119ff91fb9fbb598289d5d2ba0a75",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "ear_bear.png",
+                                                "hash": "bfa201ee66a9fce54e9d35e2658e6c37",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "ear_fox.png",
+                                                "hash": "59e4265ac4cecff2cb9ac30c3a9df57e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "ear_kitty.png",
+                                                "hash": "d87281dddd8aa187edc5f081d958799e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "ear_purple_long.png",
+                                                "hash": "d53539b7c49e8e1a07c8db8b5d109b26",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "ear_wolf.png",
+                                                "hash": "931c0fa68e22e6e30837778edd1c65ec",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-08-15T13:35:19",
+                                        "name": "Extras",
+                                        "hash": "8364421a21a2aef7268cfd431889968d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "extra_antlers.png",
+                                                "hash": "5b5d19da9770ffb4da694d3c6fa7d171",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "extra_whiskers_black.png",
+                                                "hash": "2b58d128442db7f9ccacea0aafda9aa2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "extra_whiskers_colored.png",
+                                                "hash": "c51f4ef5db325933d5c981b638bc5633",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "extra_whiskers_white.png",
+                                                "hash": "3d3c6a7084e3ec701e6a0230ea9a6c3d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-15T13:34:01",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-08-15T13:35:19",
+                                        "name": "Headband",
+                                        "hash": "988466fec90b5789e9eeddf033a0be18",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_clown.png",
+                                                "hash": "d5699697bcb7b32001f9c65c7a7f75f0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_dots.png",
+                                                "hash": "c246a6346accccfd55fc960df210bd4a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_half.png",
+                                                "hash": "0d8eb94fc24173135813992e02b8b3ed",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_kitty.png",
+                                                "hash": "246299323ff3dc0fd4e179b6538f3d1e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_rainbow.png",
+                                                "hash": "1a199698a9185fdf31ae999bd2f2aa2f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "headband_worm.png",
+                                                "hash": "53bc67c7aa9e1cf128d28367d3b2a6ef",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-08-15T13:35:19",
+                                        "name": "Nose",
+                                        "hash": "7239d3be9836bd9fda2773d8086bac11",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_clown.png",
+                                                "hash": "208697e43bd4afdd20cb945f3553d996",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_deer.png",
+                                                "hash": "9dc788ac89bafd2c22927a450336ca21",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_dog.png",
+                                                "hash": "c6103110df464ff36e6cfddbba0c2f15",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_heart.png",
+                                                "hash": "2adb7bc099b69a8d88b78e0845053b9d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_pig.png",
+                                                "hash": "c82a64836d401b06ae24ed0fda3964dd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "nose_simple.png",
+                                                "hash": "c20d1b247e3af5fc38e30157698912d2",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-08-15T13:35:19",
+                                        "name": "Sunglasses",
+                                        "hash": "81ef72f66f6078366f6413ac3b81febf",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "eagle_lens.png",
+                                                "hash": "69d88417aada0ae141195a3821d87bd2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "eagle_lens_2.png",
+                                                "hash": "048ca406f1d83e0a6023a38701476126",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "heart_lens.png",
+                                                "hash": "3cd3611585da76cff761c6c2355dfa73",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "heart_sunglasses.png",
+                                                "hash": "fd2e687299636ff16f93236e8a41ea5a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "kitty_lens.png",
+                                                "hash": "11469be76bcaa839ae82b26320925caa",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "kitty_sunglasses.png",
+                                                "hash": "d780009c9fc53ffefa8590ca03b306c5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "pink_lens.png",
+                                                "hash": "08649fdf92986a331d6c9d5a63ca9e6f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "pink_sunglasses.png",
+                                                "hash": "59b88d6c7c5af148db256b5673ada2ad",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "round_lenses.png",
+                                                "hash": "4c1c63c26de5b10166a6025fc047b579",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "round_sunglasses.png",
+                                                "hash": "41899a09c781319792af8d4393d38b9b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "star_lens.png",
+                                                "hash": "d6f7d413c131c2fd07cecfa7364fbb0e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-08-15T13:34:01",
+                                                "name": "star_sunglasses.png",
+                                                "hash": "fa58298396d57ab0866ac218d2640f02",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
                             {
                                 "isFolder": "true",
                                 "lastModified": "2020-08-15T11:39:05",
@@ -1453,22 +2702,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T13:15:01",
+                                "lastModified": "2020-08-15T13:30:02",
                                 "name": "Materials",
-                                "hash": "2d232cb6e2c0382dd25a1d848dd77426",
+                                "hash": "0bbfa652d044cf578668492597e5325c",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T13:15:01",
+                                        "lastModified": "2020-08-15T13:30:02",
                                         "name": "Chroma Material.lsmat",
-                                        "hash": "aac2af8c206058b88e8a8f445651b754",
+                                        "hash": "a6d3cbab4e235b99b0df563b2b53ef54",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T13:15:01",
+                                        "lastModified": "2020-08-15T13:30:02",
                                         "name": "Color Remap.lsmat",
-                                        "hash": "99f5104955af74b22f7b8fe17c9fed8f",
+                                        "hash": "b16250ee107624190c944f0c2d3920a5",
                                         "children": ""
                                     },
                                     {
@@ -1599,6 +2848,13 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-08-15T13:52:44",
+                                "name": "Output Image.oprfb",
+                                "hash": "1fffd8e7a2d15a7a613876a556b9db0e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-08-15T00:18:35",
                                 "name": "paint.oprfb",
                                 "hash": "de731873a7d192314ae21ec86089bbfb",
@@ -1628,9 +2884,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T11:39:05",
+                                "lastModified": "2020-08-15T13:50:35",
                                 "name": "Textures",
-                                "hash": "f7d42b3c52e93cb63a88b71d531c428c",
+                                "hash": "e063b5013a7e11d0738dfc5ce6a076b1",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1644,6 +2900,13 @@
                                         "lastModified": "2020-08-13T19:44:08",
                                         "name": "Beauty.png",
                                         "hash": "a276acaed7d65e4c1b56181771677a77",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-08-15T12:51:24",
+                                        "name": "face placeholder.png",
+                                        "hash": "e5eb278b95e0fc57eaed8093e09c7e3f",
                                         "children": ""
                                     },
                                     {
@@ -12202,6 +13465,19 @@
                                 "publicId": "18446744073709551615",
                                 "source": "",
                                 "additional": ""
+                            },
+                            {
+                                "name": "face placeholder",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "110",
+                                "dependency": "0",
+                                "uid": "1597495963817788:4058",
+                                "fileId": "113",
+                                "originalId": "114",
+                                "publicId": "11138",
+                                "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/Textures\/face placeholder.png",
+                                "additional": ""
                             }
                         ]
                     },
@@ -12463,6 +13739,551 @@
                         "publicId": "11137",
                         "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask ears.jpg",
                         "additional": ""
+                    },
+                    {
+                        "name": "2D Object Face Binding",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "111",
+                        "dependency": "0",
+                        "uid": "1597495963864809:4066",
+                        "fileId": "115",
+                        "originalId": "183",
+                        "publicId": "11139",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "2D Objects Template [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11140",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Ear",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11141",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "ear_bear",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "112",
+                                        "dependency": "0",
+                                        "uid": "1597495963970118:4095",
+                                        "fileId": "116",
+                                        "originalId": "117",
+                                        "publicId": "11142",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Ear\/ear_bear.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ear_fox",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "113",
+                                        "dependency": "0",
+                                        "uid": "1597495963996929:4102",
+                                        "fileId": "118",
+                                        "originalId": "119",
+                                        "publicId": "11143",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Ear\/ear_fox.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ear_kitty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "114",
+                                        "dependency": "0",
+                                        "uid": "1597495964023017:4109",
+                                        "fileId": "120",
+                                        "originalId": "121",
+                                        "publicId": "11144",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Ear\/ear_kitty.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ear_purple_long",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "115",
+                                        "dependency": "0",
+                                        "uid": "1597495964049969:4116",
+                                        "fileId": "122",
+                                        "originalId": "123",
+                                        "publicId": "11145",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Ear\/ear_purple_long.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ear_wolf",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "116",
+                                        "dependency": "0",
+                                        "uid": "1597495964077391:4123",
+                                        "fileId": "124",
+                                        "originalId": "125",
+                                        "publicId": "11146",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Ear\/ear_wolf.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Extras",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11147",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "extra_antlers",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "117",
+                                        "dependency": "0",
+                                        "uid": "1597495964106000:4130",
+                                        "fileId": "126",
+                                        "originalId": "127",
+                                        "publicId": "11148",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Extras\/extra_antlers.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "extra_whiskers_black",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "118",
+                                        "dependency": "0",
+                                        "uid": "1597495964133181:4137",
+                                        "fileId": "128",
+                                        "originalId": "129",
+                                        "publicId": "11149",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_black.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "extra_whiskers_colored",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "119",
+                                        "dependency": "0",
+                                        "uid": "1597495964160755:4144",
+                                        "fileId": "130",
+                                        "originalId": "131",
+                                        "publicId": "11150",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_colored.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "extra_whiskers_white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "120",
+                                        "dependency": "0",
+                                        "uid": "1597495964188778:4151",
+                                        "fileId": "132",
+                                        "originalId": "133",
+                                        "publicId": "11151",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_white.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Headband",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11152",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "headband_clown",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "121",
+                                        "dependency": "0",
+                                        "uid": "1597495964218197:4158",
+                                        "fileId": "134",
+                                        "originalId": "135",
+                                        "publicId": "11153",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_clown.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "headband_dots",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "122",
+                                        "dependency": "0",
+                                        "uid": "1597495964246916:4165",
+                                        "fileId": "136",
+                                        "originalId": "137",
+                                        "publicId": "11154",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_dots.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "headband_half",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "123",
+                                        "dependency": "0",
+                                        "uid": "1597495964276139:4172",
+                                        "fileId": "138",
+                                        "originalId": "139",
+                                        "publicId": "11155",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_half.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "headband_kitty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "124",
+                                        "dependency": "0",
+                                        "uid": "1597495964305411:4179",
+                                        "fileId": "140",
+                                        "originalId": "141",
+                                        "publicId": "11156",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_kitty.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "headband_rainbow",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "125",
+                                        "dependency": "0",
+                                        "uid": "1597495964334272:4186",
+                                        "fileId": "142",
+                                        "originalId": "143",
+                                        "publicId": "11157",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_rainbow.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "headband_worm",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "126",
+                                        "dependency": "0",
+                                        "uid": "1597495964362234:4193",
+                                        "fileId": "144",
+                                        "originalId": "145",
+                                        "publicId": "11158",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Headband\/headband_worm.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nose",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11159",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "nose_clown",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "127",
+                                        "dependency": "0",
+                                        "uid": "1597495964392758:4200",
+                                        "fileId": "146",
+                                        "originalId": "147",
+                                        "publicId": "11160",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_clown.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "nose_deer",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "128",
+                                        "dependency": "0",
+                                        "uid": "1597495964421075:4207",
+                                        "fileId": "148",
+                                        "originalId": "149",
+                                        "publicId": "11161",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_deer.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "nose_dog",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "129",
+                                        "dependency": "0",
+                                        "uid": "1597495964449103:4214",
+                                        "fileId": "150",
+                                        "originalId": "151",
+                                        "publicId": "11162",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_dog.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "nose_heart",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "130",
+                                        "dependency": "0",
+                                        "uid": "1597495964477446:4221",
+                                        "fileId": "152",
+                                        "originalId": "153",
+                                        "publicId": "11163",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_heart.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "nose_pig",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "131",
+                                        "dependency": "0",
+                                        "uid": "1597495964505656:4228",
+                                        "fileId": "154",
+                                        "originalId": "155",
+                                        "publicId": "11164",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_pig.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "nose_simple",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "132",
+                                        "dependency": "0",
+                                        "uid": "1597495964534383:4235",
+                                        "fileId": "156",
+                                        "originalId": "157",
+                                        "publicId": "11165",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Nose\/nose_simple.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sunglasses",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11166",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "eagle_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "133",
+                                        "dependency": "0",
+                                        "uid": "1597495964565536:4242",
+                                        "fileId": "158",
+                                        "originalId": "159",
+                                        "publicId": "11167",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "eagle_lens_2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "134",
+                                        "dependency": "0",
+                                        "uid": "1597495964593918:4249",
+                                        "fileId": "160",
+                                        "originalId": "161",
+                                        "publicId": "11168",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens_2.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "heart_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "135",
+                                        "dependency": "0",
+                                        "uid": "1597495964622403:4256",
+                                        "fileId": "162",
+                                        "originalId": "163",
+                                        "publicId": "11169",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_lens.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "heart_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "136",
+                                        "dependency": "0",
+                                        "uid": "1597495964650513:4263",
+                                        "fileId": "164",
+                                        "originalId": "165",
+                                        "publicId": "11170",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_sunglasses.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "kitty_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "137",
+                                        "dependency": "0",
+                                        "uid": "1597495964678955:4270",
+                                        "fileId": "166",
+                                        "originalId": "167",
+                                        "publicId": "11171",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_lens.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "kitty_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "138",
+                                        "dependency": "0",
+                                        "uid": "1597495964709390:4277",
+                                        "fileId": "168",
+                                        "originalId": "169",
+                                        "publicId": "11172",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_sunglasses.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "pink_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
+                                        "dependency": "0",
+                                        "uid": "1597495964738415:4284",
+                                        "fileId": "170",
+                                        "originalId": "171",
+                                        "publicId": "11173",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_lens.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "pink_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "140",
+                                        "dependency": "0",
+                                        "uid": "1597495964767319:4291",
+                                        "fileId": "172",
+                                        "originalId": "173",
+                                        "publicId": "11174",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_sunglasses.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "round_lenses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "141",
+                                        "dependency": "0",
+                                        "uid": "1597495964795887:4298",
+                                        "fileId": "174",
+                                        "originalId": "175",
+                                        "publicId": "11175",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/round_lenses.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "round_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "142",
+                                        "dependency": "0",
+                                        "uid": "1597495964824437:4305",
+                                        "fileId": "176",
+                                        "originalId": "177",
+                                        "publicId": "11176",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/round_sunglasses.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "star_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "143",
+                                        "dependency": "0",
+                                        "uid": "1597495964853554:4312",
+                                        "fileId": "178",
+                                        "originalId": "179",
+                                        "publicId": "11177",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/star_lens.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "star_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "144",
+                                        "dependency": "0",
+                                        "uid": "1597495964881943:4319",
+                                        "fileId": "180",
+                                        "originalId": "181",
+                                        "publicId": "11178",
+                                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/2D Objects Template [REMOVE_ME]\/Sunglasses\/star_sunglasses.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Output Image",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "145",
+                        "dependency": "0",
+                        "uid": "1597495964894158:4327",
+                        "fileId": "182",
+                        "originalId": "184",
+                        "publicId": "11179",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -12470,7 +14291,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1597447125043874:79772"
+                    "1597496038145764:22323"
                 ]
             }
         },
