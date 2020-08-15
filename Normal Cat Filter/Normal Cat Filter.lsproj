@@ -3,7 +3,7 @@
     "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597448738743",
+    "lastChanged": "1597493707060",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -33,7 +33,31 @@
                         "Default Textures"
                     ],
                     [
+                        "Fonts"
+                    ],
+                    [
+                        "ML Hint"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
                         "Textures"
+                    ],
+                    [
+                        "full"
+                    ],
+                    [
+                        "full_no_lips"
+                    ],
+                    [
+                        "mask ears"
                     ]
                 ]
             ]
@@ -47,6 +71,8 @@
                     "1584068427296999:108689",
                     "1584155987378911:48971",
                     "1584156272873389:88685",
+                    "1597254527116876:33036",
+                    "1597397850605464:91414",
                     "1597447125052279:79848"
                 ]
             ]
@@ -72,7 +98,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 5.jpg",
+                "front_preview_id": "local:C:\/Users\/kogneu-admin\/Desktop\/faces\/external-content.duckduckgo.jpg",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
                 "spectacles_preview_is_favorite": "false"
@@ -80,7 +106,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 5.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 4.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -365,14 +391,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "97",
-                    "uid": "1597426373293565:75049",
-                    "name": "Files\/File87.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "98",
                     "uid": "1597447115845859:75074",
                     "name": "sceneObject_0",
@@ -392,6 +410,30 @@
                     "resId": "100",
                     "uid": "1597447116124283:75190",
                     "name": "Files\/File92.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "102",
+                    "uid": "1597450740015821:83141",
+                    "name": "Files\/File97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1597451136831831:118761",
+                    "name": "Files\/File99.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1597493404960467:489884",
+                    "name": "Files\/File111.jpg",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -816,14 +858,6 @@
                     "v": "Files\/File86.jpeg"
                 },
                 {
-                    "k": "87",
-                    "v": "Files\/File87.png"
-                },
-                {
-                    "k": "88",
-                    "v": "Files\/File88.png"
-                },
-                {
                     "k": "89",
                     "v": "Files\/File89.oprfb"
                 },
@@ -846,6 +880,30 @@
                 {
                     "k": "94",
                     "v": "Files\/File94.oprfb"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.png"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.jpg"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.jpg"
                 }
             ]
         },
@@ -991,10 +1049,6 @@
                         "v": "mask cat.jpeg"
                     },
                     {
-                        "k": "11123",
-                        "v": "mask strong.png"
-                    },
-                    {
                         "k": "11125",
                         "v": "paint.oprfb"
                     },
@@ -1009,6 +1063,18 @@
                     {
                         "k": "11128",
                         "v": "Opacity Textures\/full_no_eye_lips.png"
+                    },
+                    {
+                        "k": "11130",
+                        "v": "full_no_lips.png"
+                    },
+                    {
+                        "k": "11131",
+                        "v": "full.png"
+                    },
+                    {
+                        "k": "11137",
+                        "v": "mask ears.jpg"
                     }
                 ],
                 "hashes": [
@@ -1170,7 +1236,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "7dc2866bc8c9f1a4d27d81bc6ffa3b65"
+                        "v": "f63f7db810871bd5633988f560ad57ec"
                     },
                     {
                         "k": "11101",
@@ -1226,11 +1292,11 @@
                     },
                     {
                         "k": "11118",
-                        "v": "ff690310788c4b5c9602ff97c573d43b"
+                        "v": "505ebb6b2cb7a27f5b161dc3663f60f1"
                     },
                     {
                         "k": "11122",
-                        "v": "b6eb4f0a9d6f51055c00d36db6892a7c"
+                        "v": "5dc3dc06efba91d27984319a34699e99"
                     },
                     {
                         "k": "11123",
@@ -1247,18 +1313,54 @@
                     {
                         "k": "11128",
                         "v": "95e79b482ffce043795f199cdc1f3969"
+                    },
+                    {
+                        "k": "11129",
+                        "v": "5edaf3ccf521aad3058a7b23132dde7c"
+                    },
+                    {
+                        "k": "11130",
+                        "v": "60f9b7fd5f432347d2a6c33814a392ce"
+                    },
+                    {
+                        "k": "11131",
+                        "v": "5da508b500472344200a23a0e069d1c9"
+                    },
+                    {
+                        "k": "11132",
+                        "v": "9e593f2310487be3e99c2b46170b8008"
+                    },
+                    {
+                        "k": "11133",
+                        "v": "9e593f2310487be3e99c2b46170b8008"
+                    },
+                    {
+                        "k": "11134",
+                        "v": "9567f08332068d02c05f7cdee2ee27a3"
+                    },
+                    {
+                        "k": "11135",
+                        "v": "95804ee278d434f93c3f80af790324e2"
+                    },
+                    {
+                        "k": "11136",
+                        "v": "47533228de9091e31c0f989b24f85a9c"
+                    },
+                    {
+                        "k": "11137",
+                        "v": "ae9b246b65cc6bbc545761033cda6630"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-15T00:33:22",
+                        "lastModified": "2020-08-15T13:10:03",
                         "name": "Public",
-                        "hash": "ecaf116848799e32a7a688331a7d8ec6",
+                        "hash": "511e36c42bfe28879632003be90e9950",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T15:54:41",
+                                "lastModified": "2020-08-15T11:39:05",
                                 "name": "Default Textures",
                                 "hash": "cd8b1c110353f338d5fdc58a8884e964",
                                 "children": [
@@ -1301,7 +1403,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T15:54:41",
+                                "lastModified": "2020-08-15T11:39:14",
                                 "name": "Fonts",
                                 "hash": "16060818347d2e309d73a640d4470e01",
                                 "children": [
@@ -1323,36 +1425,50 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-15T00:33:22",
-                                "name": "mask cat.jpeg",
-                                "hash": "b6eb4f0a9d6f51055c00d36db6892a7c",
+                                "lastModified": "2020-01-31T13:20:06",
+                                "name": "full.png",
+                                "hash": "5da508b500472344200a23a0e069d1c9",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-14T18:07:24",
-                                "name": "mask strong.png",
-                                "hash": "03704efd3ef7b94d564966c7111b2169",
+                                "lastModified": "2020-08-07T09:16:34",
+                                "name": "full_no_lips.png",
+                                "hash": "60f9b7fd5f432347d2a6c33814a392ce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-15T00:55:22",
+                                "name": "mask cat.jpeg",
+                                "hash": "5dc3dc06efba91d27984319a34699e99",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-15T12:07:37",
+                                "name": "mask ears.jpg",
+                                "hash": "ae9b246b65cc6bbc545761033cda6630",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T00:17:21",
+                                "lastModified": "2020-08-15T13:15:01",
                                 "name": "Materials",
-                                "hash": "3448fad259dd33a243441a129a0cb037",
+                                "hash": "2d232cb6e2c0382dd25a1d848dd77426",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T00:17:21",
+                                        "lastModified": "2020-08-15T13:15:01",
                                         "name": "Chroma Material.lsmat",
-                                        "hash": "6ec26dcef4ccbd535ffb0ffd4f57c69e",
+                                        "hash": "aac2af8c206058b88e8a8f445651b754",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T00:17:21",
+                                        "lastModified": "2020-08-15T13:15:01",
                                         "name": "Color Remap.lsmat",
-                                        "hash": "ffa8e82f2e078c5e48eee8d4f7cc4554",
+                                        "hash": "99f5104955af74b22f7b8fe17c9fed8f",
                                         "children": ""
                                     },
                                     {
@@ -1373,7 +1489,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T15:54:41",
+                                "lastModified": "2020-08-15T11:38:59",
                                 "name": "ML Hint",
                                 "hash": "0ee6d1809fe40ed88fbadb8324efb592",
                                 "children": [
@@ -1386,7 +1502,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-08-14T15:54:41",
+                                        "lastModified": "2020-08-15T11:39:01",
                                         "name": "Textures",
                                         "hash": "45d9e526e3f9b136f7e3284472423734",
                                         "children": [
@@ -1399,7 +1515,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2020-08-14T15:54:41",
+                                                "lastModified": "2020-08-15T11:39:09",
                                                 "name": "ml_loading",
                                                 "hash": "f8270a876c153af7dfa33db3eddc5d95",
                                                 "children": [
@@ -1425,7 +1541,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T15:54:41",
+                                "lastModified": "2020-08-15T11:39:04",
                                 "name": "Models",
                                 "hash": "26895c9faee2226b8b812557f3ccb0f3",
                                 "children": [
@@ -1461,7 +1577,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T00:18:36",
+                                "lastModified": "2020-08-15T11:39:05",
                                 "name": "Opacity Textures",
                                 "hash": "250a42e73ffdd703f3c5301592e0a283",
                                 "children": [
@@ -1490,7 +1606,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T16:03:19",
+                                "lastModified": "2020-08-15T11:39:14",
                                 "name": "Scripts",
                                 "hash": "9aea9420cb65056a135036449db8db8e",
                                 "children": [
@@ -1512,7 +1628,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-14T18:35:15",
+                                "lastModified": "2020-08-15T11:39:05",
                                 "name": "Textures",
                                 "hash": "f7d42b3c52e93cb63a88b71d531c428c",
                                 "children": [
@@ -12243,19 +12359,6 @@
                         ]
                     },
                     {
-                        "name": "mask strong",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "97",
-                        "dependency": "0",
-                        "uid": "1597426373293565:75049",
-                        "fileId": "87",
-                        "originalId": "88",
-                        "publicId": "11123",
-                        "source": "C:\/Users\/kogneu-admin\/Documents\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask strong.png",
-                        "additional": ""
-                    },
-                    {
                         "name": "mask cat",
                         "type": "1",
                         "subtype": "9",
@@ -12320,6 +12423,45 @@
                         "originalId": "94",
                         "publicId": "11125",
                         "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "full_no_lips",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "102",
+                        "dependency": "0",
+                        "uid": "1597450740015821:83141",
+                        "fileId": "97",
+                        "originalId": "98",
+                        "publicId": "11130",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/Studio3DResources.bundle\/Templates\/Photo Template\/Public\/Opacity Textures\/full_no_lips.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "full",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "103",
+                        "dependency": "0",
+                        "uid": "1597451136831831:118761",
+                        "fileId": "99",
+                        "originalId": "100",
+                        "publicId": "11131",
+                        "source": "C:\/Users\/kogneu-admin\/AppData\/Roaming\/Snap\/Lens Studio\/Autosaves\/Normal Cat Filter_200815_003349\/Public\/Textures\/full.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "mask ears",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "109",
+                        "dependency": "0",
+                        "uid": "1597493404960467:489884",
+                        "fileId": "111",
+                        "originalId": "112",
+                        "publicId": "11137",
+                        "source": "C:\/Users\/kogneu-admin\/Google Drive\/pytorch-CycleGAN-and-pix2pix\/Normal Cat Filter\/Public\/mask ears.jpg",
                         "additional": ""
                     }
                 ]
