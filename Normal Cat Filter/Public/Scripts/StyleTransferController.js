@@ -17,6 +17,7 @@
 //@input SceneObject photoButton  {"showIf" : "advanced"}
 //@input SceneObject facePlaceholder  {"showIf" : "advanced"}
 //@input SceneObject resetButton  {"showIf" : "advanced"}
+//@input SceneObject facePaint {"showIf" : "advanced"}
 
 var mlComponent;
 var config;
@@ -116,6 +117,8 @@ function runOnDemand() {
 }
 
 function onTap() {
+    script.facePaint.enabled = false;    
+    
     if (mlComponent.state == MachineLearning.ModelState.Idle) {
         if (!frameProcessed) {
             runOnce();
@@ -143,6 +146,7 @@ function onMLFinishedProcessing() {
     setOutputTexture(true);
     if (script.loader) { script.loader.enabled = false; }
     if (script.resetButton) { script.resetButton.enabled = true; }
+    if(script.facePaint) { script.facePaint.enabled = true; }
 }
 
 function onMLFinishedProcessingFirstFrame() {

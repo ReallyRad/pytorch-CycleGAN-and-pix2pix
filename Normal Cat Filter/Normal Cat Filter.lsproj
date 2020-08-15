@@ -3,7 +3,7 @@
     "document_id": "Q6bEXbBQIhizui2JaKKQ",
     "original_document_id": "41KqheCcwg7pji__eSJP",
     "version": "24",
-    "lastChanged": "1597497931919",
+    "lastChanged": "1597499144548",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -28,35 +28,7 @@
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
-                [
-                    [
-                        "Default Textures"
-                    ],
-                    [
-                        "Fonts"
-                    ],
-                    [
-                        "ML Hint"
-                    ],
-                    [
-                        "Materials"
-                    ],
-                    [
-                        "Models"
-                    ],
-                    [
-                        "Textures"
-                    ],
-                    [
-                        "full"
-                    ],
-                    [
-                        "full_no_lips"
-                    ],
-                    [
-                        "mask ears"
-                    ]
-                ]
+                ""
             ]
         },
         "SceneTreeUiComponent": {
@@ -1921,7 +1893,7 @@
                     },
                     {
                         "k": "95",
-                        "v": "9ee2dcead448f75ae43d83eab34f1a3a"
+                        "v": "c631717e6ad2a1f9c490995a0da98833"
                     },
                     {
                         "k": "96",
@@ -2029,7 +2001,7 @@
                     },
                     {
                         "k": "11100",
-                        "v": "f2255b27494dbb51fe7c3f96e960bba5"
+                        "v": "a8e5533e650dca3cec8e4a722b174e1c"
                     },
                     {
                         "k": "11101",
@@ -2085,7 +2057,7 @@
                     },
                     {
                         "k": "11118",
-                        "v": "71bc79e3f4cabfadf6baefc04fafacd8"
+                        "v": "81258adae9d8b46855da5701945cc876"
                     },
                     {
                         "k": "11122",
@@ -2325,7 +2297,7 @@
                         "isFolder": "true",
                         "lastModified": "2020-08-15T13:57:08",
                         "name": "Public",
-                        "hash": "b0a5cf372f229498d411bef9b1e6fa9e",
+                        "hash": "5b7a04fd0fd5f5a0938d480f78976024",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -2764,22 +2736,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T14:23:49",
+                                "lastModified": "2020-08-15T14:25:30",
                                 "name": "Materials",
-                                "hash": "98b9fc55a372d02ee1e29b4df2864fc5",
+                                "hash": "2f87a73a4ce111e6fcaafee25f1f248b",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T14:23:49",
+                                        "lastModified": "2020-08-15T14:25:30",
                                         "name": "Chroma Material.lsmat",
-                                        "hash": "0cd22dab6d9d70a3379b801db8676e04",
+                                        "hash": "f2255b27494dbb51fe7c3f96e960bba5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T14:23:49",
+                                        "lastModified": "2020-08-15T14:25:30",
                                         "name": "Color Remap.lsmat",
-                                        "hash": "de6bc4262140173f9f80ef26805452c3",
+                                        "hash": "71bc79e3f4cabfadf6baefc04fafacd8",
                                         "children": ""
                                     },
                                     {
@@ -2924,9 +2896,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-08-15T14:02:36",
+                                "lastModified": "2020-08-15T14:45:31",
                                 "name": "Scripts",
-                                "hash": "6bba99e7a66f81cbc8197ed7876cb064",
+                                "hash": "2c5c2a6044a6a5c8097cdbd4ba9c1225",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -2937,9 +2909,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-08-15T14:02:36",
+                                        "lastModified": "2020-08-15T14:45:31",
                                         "name": "StyleTransferController.js",
-                                        "hash": "9ee2dcead448f75ae43d83eab34f1a3a",
+                                        "hash": "c631717e6ad2a1f9c490995a0da98833",
                                         "children": ""
                                     }
                                 ]
